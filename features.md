@@ -15,7 +15,7 @@ Ontological consistency describes the unambiguous characterization of the functi
 <details>
   <summary>Comprehensive capturing of institutions</summary><br/>
 
-Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.<br/><br/>
+Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.<br/>
 
 </details>
 
@@ -42,17 +42,17 @@ The specific features of the IG 2.0 are listed by level of expressiveness, rangi
 
 Levels of expressiveness reflect the different levels of detail and focus at which institutional statements are encoded to meet different analytical objectives. 
   
-<i>IG Core</i> as the basic level aims at capturing institutional information broadly, but comprehensively. Central here is the compatibility to the original Institutional Grammar by Crawford and Ostrom, alongside conceptual refinements that increase the ontological consistency and rigor of the IG. Specific examples include the distinction between activation conditions (conditions that lead to the applicability of a given institutional statements) and execution constraints (qualifications of the activity or function of the institutional statement) as part of the *Context* components (*Conditions* in Crawford and Ostrom's version), as well as the introduction of a constitutive syntactic form that enables a comprehensive capturing of institutional information.<br/><br/>
+<i>IG Core</i> as the basic level aims at capturing institutional information broadly, but comprehensively. Central here is the compatibility to the original Institutional Grammar by Crawford and Ostrom, alongside conceptual refinements that increase the ontological consistency and rigor of the IG. Specific examples include the distinction between activation conditions (conditions that lead to the applicability of a given institutional statements) and execution constraints (qualifications of the activity or function of the institutional statement) as part of the *Context* components (*Conditions* in Crawford and Ostrom's version), as well as the introduction of a constitutive syntactic form that enables a comprehensive capturing of institutional information.<br/>  
   
+<i>IG Extended</i> aims at capturing *structural detail* by allowing fine-grained parsing on component level (i.e., parsing of institutional information within individual components), as well as extraction of richer conceptual structures embedded in institutional statements (e.g., conceptual relationships between entities in component property). This further includes the richer contextualization of selected components based on annotations of *Context*.<br/>
   
-<i>IG Extended</i> aims at capturing *structural detail* by allowing fine-grained parsing on component level (i.e., parsing of institutional information within individual components), as well as extraction of richer conceptual structures embedded in institutional statements (e.g., conceptual relationships between entities in component property). This further includes the richer contextualization of selected components based on annotations of *Context*.<br/><br/>
-  
-  
-<i>IG Logico</i>, as the highest level of expressiveness, focuses on the semantic aspects of the institutional information, and specifically the epistemological embedding of the statement parsing in the theory and/or frameworks of interest. This includes the augmentation of encoded information with semantic annotations derived or linked to particular theories, or drawn from selected taxonomies maintained as part of the IG 2.0 (e.g., role annotations, governance functions of actors/actions). IG Logico further introduces a formal syntactic and semantic treatment of institutional statements, including the ability to transform institutional statements based on their structural properties.<br/><br/>
+<i>IG Logico</i>, as the highest level of expressiveness, focuses on the semantic aspects of the institutional information, and specifically the epistemological embedding of the statement parsing in the theory and/or frameworks of interest. This includes the augmentation of encoded information with semantic annotations derived or linked to particular theories, or drawn from selected taxonomies maintained as part of the IG 2.0 (e.g., role annotations, governance functions of actors/actions). IG Logico further introduces a formal syntactic and semantic treatment of institutional statements, including the ability to transform institutional statements based on their structural properties.<br/>
 
 In IG 2.0, the default assumption is the incremental application of the different levels and their features (ensuring that features on higher levels can draw on features encoded on lower levels) as visualized in the following.
   
-![levels-of-expressiveness](/figures/IGLevelObjectives.png){:class="img-responsive"}
+<!--![levels-of-expressiveness](/figures/IGLevelObjectives.png)-->
+  
+<img src="/figures/IGLevelObjectives.png" width="30%">
   
 However, analysts are free to selectively draw on features that best correspond to their analytical needs or objectives as part of their coding, with the main priorities for the different levels highlighted in the figure below.
 
