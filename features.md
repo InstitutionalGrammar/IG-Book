@@ -50,11 +50,11 @@ Levels of expressiveness reflect the different levels of detail and focus at whi
 
 In IG 2.0, the default assumption is the incremental application of the different levels and their features (ensuring that features on higher levels can draw on features encoded on lower levels) as visualized in the following.
   
-<center><img src="/figures/IGBibCodingAnalysis.png" width="50%"></center>
+<center><img src="/figures/IGBibCodingAnalysis.png" width="45%"></center>
   
 However, analysts are free to selectively draw on features from specific or across levels that best correspond to their analytical needs or objectives as part of their coding, with the main priorities for the different levels highlighted in the figure below.
 
-<center><img src="/figures/IGLevelObjectives.png" width="50%"></center>
+<center><img src="/figures/IGLevelObjectives.png" width="55%"></center>
   
 </details>
 
