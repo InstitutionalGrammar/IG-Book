@@ -8,28 +8,28 @@ title: IG Book
 <details>
   <summary>Ontological consistency</summary><br/>
   
-Ontological consistency describes the unambiguous characterization of the function linkage of components in institutional statements with respect to each and/or the institutional setting. A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.
+Ontological consistency describes the unambiguous characterization of the function linkage of components in institutional statements with respect to each and/or the institutional setting. A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.<br/>
   
 </details>
 
 <details>
   <summary>Comprehensive capturing of institutions</summary><br/>
 
-Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.
+Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.<br/>
 
 </details>
 
 <details>
   <summary>Computational tractability</summary><br/>
   
-Computational tractability interacts with the objective of ontological consistency by making components and statements as a whole accessible for computational treatment. This includes the well-defined nature of components as well as enabling fine-grained parsing of institutional statements.
+Computational tractability interacts with the objective of ontological consistency by making components and statements as a whole accessible for computational treatment. This includes the well-defined nature of components as well as enabling fine-grained parsing of institutional statements.<br/>
 
 </details>
 
 <details>
   <summary>Customizability</summary><br/>
   
-The IG has found application in diverse domains. The refined IG aims at better accommodating diverse applications of the IG by allowing the analyst to selective apply or forego features of the IG as part of the parsing process. The aim is to extract information that best corresponds to downstream use using particular analytical techniques (e.g., statistical treatment, behavioral modeling, formal reasoning). 
+The IG has found application in diverse domains. The refined IG aims at better accommodating diverse applications of the IG by allowing the analyst to selective apply or forego features of the IG as part of the parsing process. The aim is to extract information that best corresponds to downstream use using particular analytical techniques (e.g., statistical treatment, behavioral modeling, formal reasoning).<br/>
 
 </details>
   
@@ -109,9 +109,17 @@ Example: ```A(Student) D(must) I(submit) Bdir(assignment) Cex(by the end of the 
   
 </details>
 
-* Object-Property/Concept Hierarchy
+<details>
+<summary>Object-Property/Concept Hierarchy</summary><br/>
 
-* Context Taxonomy
+</details>
+
+<details>
+<summary>Context Taxonomy</summary><br/>
+
+The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual characterization of the *Conditions* component (e.g., temporal, spatial and procedural aspects) and expands this categorization into a richer taxonomic structure that captures diverse types of context, including method, event and domanial categories, amongst others. Details are provided in the [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937).
+  
+</details>
 
 ### IG Logico
 
