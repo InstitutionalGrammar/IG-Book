@@ -8,14 +8,15 @@ title: IG Book
 <details>
   <summary>Ontological consistency</summary><br/>
   
-Ontological consistency describes the unambiguous characterization of the function linkage of components in institutional statements with respect to each and/or the institutional setting. A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.<br/>
+Ontological consistency describes the unambiguous characterization of the function linkage of components in institutional statements with respect to each and/or the institutional setting. A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.<br/><br/>
   
 </details>
 
 <details>
   <summary>Comprehensive capturing of institutions</summary><br/>
 
-Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.<br/>
+Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.
+<br/><br/>
 
 </details>
 
