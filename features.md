@@ -88,7 +88,7 @@ Example: ```A(Individuals) D(must [NOT]) I(violate) Bdir(public order), or else 
   
 The second observation refers to the common combination of terms in natural language, such as the combination of selected components (e.g., multiple actors and actions, such as ``Individuals may not enter or leave dwellings during curfew.``) in a single statement. Such statements can conceptually decomposed into logically-combined *atomic institutional statements* to capture the institutional content in detail and semantically precise. This form of nesting is referred to as *horizontal nesting*, since the evaluation of one statement (unlike in the vertical case) is in principle not conditional on the other.
   
-Example: ```A(Individuals) D(may not) I((enter [AND] leave)) Bdir(dwellings) Cac(during curfew).```, which is conceptually equivalent to 
+Example: ```A(Individuals) D(may [NOT]) I((enter [AND] leave)) Bdir(dwellings) Cac(during curfew).```, which is conceptually equivalent to 
   
   ```{A(Individuals) D(may [NOT]) I(enter) Bdir(dwellings) Cac(during curfew).} [AND] {A(Individuals) D(may [NOT]) I(leave) Bdir(dwellings) Cac(during curfew).}``` 
   
