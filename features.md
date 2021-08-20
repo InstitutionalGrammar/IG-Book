@@ -8,7 +8,7 @@ title: IG Book
 <details>
   <summary>Ontological consistency</summary><br/>
   
-Ontological consistency describes the unambiguous characterization of the function linkage of components in institutional statements with respect to each and/or the institutional setting. A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.<br/>
+Ontological consistency describes the unambiguous characterization of the functional linkage of components in institutional statements with respect to each and/or the institutional setting (for more details, see Section 3.1 of the book). A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.
   
 </details>
 
@@ -109,18 +109,39 @@ Example: ```A(Student) D(must) I(submit) Bdir(assignment) Cex(by the end of the 
 
 <details>
 <summary>Object-Property/Concept Hierarchy</summary><br/>
+  
+A central feature to capture concept structures embedded within institutional statements is to be able to recognize the quality of the relationships of concepts, including the detection of functional dependencies (e.g., a suspension of certification, where the suspension necessarily depends on the existence of the certification in the first place) and potential logical relationships between those concepts. This feature is useful if the analyst seeks to extract a concept hierarchy, e.g., for the construction of ontologies, as part of the analysis process. The following figure exemplifies this for a given scenario describing a certification that can selectively be suspended, revoked based on a written notification. A richer discussion is offered as part of Section 5.1.4 of the book, as well as the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a>.
 
+<center><img src="/figures/ObjectPropertyHierarchyExample.png" width="45%"></center>
+  
+</details>
+
+<details>
+<summary>Property Typology</summary><br/>
+
+The *Property Typology* offers a systematic qualification of properties as either quantitative or qualitative in nature (alongside further sub categories) in order to differentiate descriptors that are central for the evaluation of the fulfillment of a provision (e.g., ```*all* *accredited* members shall vote```, where *all* is a descriptor of quantitative kind, whereas *accredited* merely captures the quality associated with the concept *members*). The principles and the motivation of this feature are further discussed in Section 5.1.5 of the book.
+  
 </details>
 
 <details>
 <summary>Context Taxonomy</summary><br/>
 
-The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual characterization of the *Conditions* component (e.g., temporal, spatial and procedural aspects) and expands this categorization into a richer taxonomic structure that captures diverse types of context, including method, event and domanial categories, amongst others. Details are provided in the [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937).
+The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual characterization of the *Conditions* component (e.g., temporal, spatial and procedural aspects) and expands this categorization into a richer taxonomic structure that captures diverse types of context, including method, event and domanial categories, amongst others. Details are provided in the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a>.
   
 </details>
 
 ### IG Logico
 
-* Semantic Annotations
+<details>
+<summary>Semantic Annotations</summary><br/>
 
-* Statement Transformations
+IG Logico aims at developing an epistemological linkage between the domain of interest and the encoded institutional information. Central here is the ability to annotate encoded information with the functional role or signal these component values have with respect to the domain or through the analytical lens the analyst applies. If, for instance, analyzing an institutional setting with respect to compliance behavior `not submitting the tax return on time` reflects a violation (whereas other activities reflect the institutional function of signaling compliance). IG 2.0 provides a set of predefined taxonomies prepared for the annotations of selected components (e.g., roles, metatypes of referenced concepts, as well as institutional functions in the context of compliance assessment), but further allows for the introduction of classifications drawn from the domain of the analyst. 
+  
+</details>
+
+<details>
+<summary>Statement Transformations</summary><br/>
+
+With the encoding on higher levels of expressiveness (IG Extended or Logico), institutional statements can be transformed algorithmically, e.g., to reflect policy from specific actors' perspectives, establish a uniform structural representation to facilitate downstream analysis or comparative studies, or extrapolation multiple involved actors' perspectives tacitly captured in institutional statements for richer behavioral models or assessment of biases captured in policy. See Section 6.1.4 of the book for details on transformation rules and Section 8.3 for illustrative applications. 
+  
+</details>
