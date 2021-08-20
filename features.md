@@ -12,6 +12,7 @@ Ontological consistency describes the unambiguous characterization of the functi
   
 </details>
 
+
 <details>
   <summary>Comprehensive capturing of institutions</summary><br/>
 
@@ -19,12 +20,14 @@ Comprehensiveness in the context of the IG describes the ability to parse instit
 
 </details>
 
+
 <details>
   <summary>Computational tractability</summary><br/>
   
 Computational tractability interacts with the objective of ontological consistency by making components and statements as a whole accessible for computational treatment. This includes the well-defined nature of components as well as enabling fine-grained parsing of institutional statements.
 
 </details>
+
 
 <details>
   <summary>Customizability</summary><br/>
@@ -135,7 +138,7 @@ The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual chara
 <details>
 <summary>Semantic Annotations</summary><br/>
 
-IG Logico aims at developing an epistemological linkage between the domain of interest and the encoded institutional information. Central here is the ability to annotate encoded information with the functional role or signal these component values have with respect to the domain or through the analytical lens the analyst applies. If, for instance, analyzing an institutional setting with respect to compliance behavior `not submitting the tax return on time` reflects a violation (whereas other activities reflect the institutional function of signaling compliance). IG 2.0 provides a set of predefined taxonomies prepared for the annotations of selected components (e.g., roles, metatypes of referenced concepts, as well as institutional functions in the context of compliance assessment), but further allows for the introduction of classifications drawn from the domain of the analyst. 
+IG Logico aims at developing an epistemological linkage between the domain of interest and the encoded institutional information. Central here is the ability to annotate encoded information using semantic annotations that capture the functional role (*Institutional Functions*) or signal that the component values convey with respect to the domain or through the applied analytical lens. Referencing an example of such institutional function, analyzing an institutional setting with respect to compliance behavior `not submitting the tax return on time` reflects a violation (whereas `submission on time` reflects the institutional function of signaling compliance). IG 2.0 provides a set of predefined taxonomies prepared for the annotations of selected components (e.g., roles, metatypes of referenced concepts, as well as institutional functions in the context of compliance assessment), but further allows for the introduction of classifications drawn from the domain of the analyst. More details can found in Section 6.1.2 onwards in the book, as well as the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a>.
   
 </details>
 
