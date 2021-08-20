@@ -11,7 +11,7 @@ title: IG Book
 Ontological consistency describes the unambiguous characterization of the functional linkage of components in institutional statements with respect to each and/or the institutional setting (for more details, see Section 3.1 of the book). A specific refinement introduced in the IG 2.0 is the distinction between activation conditions and execution constraints as part of a statement specification.
   
 </details>
-
+<br/> 
 
 <details>
   <summary>Comprehensive capturing of institutions</summary><br/>
@@ -19,7 +19,7 @@ Ontological consistency describes the unambiguous characterization of the functi
 Comprehensiveness in the context of the IG describes the ability to parse institutional statements comprehensively without omitting relevant institutional statement (e.g., omitting statements, or information within statements). Specifically the integrated treatment of regulative and constitutive statement forms address this issue, alongside the different forms of nesting that capture institutional information in detail.
 
 </details>
-
+<br/> 
 
 <details>
   <summary>Computational tractability</summary><br/>
@@ -27,7 +27,7 @@ Comprehensiveness in the context of the IG describes the ability to parse instit
 Computational tractability interacts with the objective of ontological consistency by making components and statements as a whole accessible for computational treatment. This includes the well-defined nature of components as well as enabling fine-grained parsing of institutional statements.
 
 </details>
-
+<br/> 
 
 <details>
   <summary>Customizability</summary><br/>
@@ -81,6 +81,7 @@ Example: ```E(Voters) F(are) P(citizens) P,p(aged 18 and older).```
 This statement defines what voters are. Specific permissions and duty can be specified by corresponding regulative statements. 
   
 </details>
+<br/> 
 
 <details>
 <summary>Statement-level Nesting</summary><br/>
@@ -109,6 +110,7 @@ Component-level nesting extends the concept of statement-level nesting by allowi
 Example: ```A(Student) D(must) I(submit) Bdir(assignment) Cex(by the end of the term), Cac{unless [NOT] A(coordinator) I(has specified) a Bdir,p(different) Bdir(due date) Cex(in the course description)}.```
   
 </details>
+<br/> 
 
 <details>
 <summary>Object-Property/Concept Hierarchy</summary><br/>
@@ -118,6 +120,7 @@ A central feature to capture concept structures embedded within institutional st
 <center><img src="/figures/ObjectPropertyHierarchyExample.png" width="45%"></center>
   
 </details>
+<br/> 
 
 <details>
 <summary>Property Typology</summary><br/>
@@ -125,6 +128,7 @@ A central feature to capture concept structures embedded within institutional st
 The *Property Typology* offers a systematic qualification of properties as either quantitative or qualitative in nature (alongside further sub categories) in order to differentiate descriptors that are central for the evaluation of the fulfillment of a provision (e.g., ```*all* *accredited* members shall vote```, where *all* is a descriptor of quantitative kind, whereas *accredited* merely captures the quality associated with the concept *members*). The principles and the motivation of this feature are further discussed in Section 5.1.5 of the book.
   
 </details>
+<br/> 
 
 <details>
 <summary>Context Taxonomy</summary><br/>
@@ -141,6 +145,7 @@ The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual chara
 IG Logico aims at developing an epistemological linkage between the domain of interest and the encoded institutional information. Central here is the ability to annotate encoded information using semantic annotations that capture the functional role (*Institutional Functions*) or signal that the component values convey with respect to the domain or through the applied analytical lens. Referencing an example of such institutional function, analyzing an institutional setting with respect to compliance behavior `not submitting the tax return on time` reflects a violation (whereas `submission on time` reflects the institutional function of signaling compliance). IG 2.0 provides a set of predefined taxonomies prepared for the annotations of selected components (e.g., roles, metatypes of referenced concepts, as well as institutional functions in the context of compliance assessment), but further allows for the introduction of classifications drawn from the domain of the analyst. More details can found in Section 6.1.2 onwards in the book, as well as the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a>.
   
 </details>
+<br/> 
 
 <details>
 <summary>Statement Transformations</summary><br/>
