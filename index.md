@@ -3,7 +3,7 @@ layout: default
 title: IG Book
 ---
 
-This is the companion website of the book "Institutional Grammar -- Foundations and Applications for Institutional Analysis". This website introduces the [principles](principles.md) of the Institutional Grammar 2.0 (IG 2.0) as a refinement of the "Grammar of Institutions", introduced by Crawford and Ostrom in their seminal 1995 article, including the [core features](features.md) and application use cases. A specific topic is further the encoding of institutional information, both including [practical guidance](coding.md) as well as discussion of commonly observed challenges (see [FAQ](faq.md)). The website finally provides links to relevant [resources](resources.md) for the application of the IG 2.0.
+This is the companion website of the book "Institutional Grammar -- Foundations and Applications for Institutional Analysis". This website introduces the [principles and core features](features.md) of the Institutional Grammar 2.0 (IG 2.0) as a refinement of the "Grammar of Institutions", introduced by Crawford and Ostrom in their seminal 1995 article. A specific topic is further the encoding of institutional information, both including [practical guidance](coding.md) as well as discussion of commonly observed challenges (see [FAQ](faq.md)). The website finally provides links to relevant [resources](resources.md) with further information on the IG 2.0.
 
 ## What are Institutions?
 
