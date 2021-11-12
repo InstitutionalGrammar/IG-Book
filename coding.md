@@ -5,7 +5,13 @@ title: IG Book
 
 ## Coder's Corner
 
-basic examples of both regulative and constitutive statements
+This page specifically targets common challenges encountered when encoding institutional statements. While those discussions are covered in the IG 2.0 Codebook, an overview of common questions alongside a practice-oriented explanation is provided here. We intend to update this overview based on observed challenges encountered during the encoding of institutional statements.
+
+Please click on the individual questions to expand their content.
+
+### under construction
+
+* Basic examples of both regulative and constitutive statements
 
 <details>
   <summary>What is the difference between Execution Constraints vs. Object Properties?</summary><br/>
@@ -20,8 +26,6 @@ The statement ```A(Citizens) D(must) I(submit) Bdir(tax returns) Bdir,p(that ind
 <br/>
 
 
-Properties
+* Properties
 
-Constraints vs. Object Properties
-
-Hybrid institutional statements
+* Hybrid institutional statements

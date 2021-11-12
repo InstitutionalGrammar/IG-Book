@@ -5,7 +5,9 @@ title: IG Book
 
 ## Resources
 
-The Institutional Grammar 2.0 is supported by a wide range of resources that address different objectives.
+The Institutional Grammar 2.0 is supported by a wide range of resources that address different objectives, including conceptual aspects and practical concerns regarding the coding of institutional statements, as well as tools that support the process.
+
+Resources related to the Institutional Grammar more broadly (i.e., specifically resources related to the original Institutional Grammar) can be found on the [IGRI website](https://institutionalgrammar.org/resources/).
 
 ### Conceptual Foundations & Supplementary Information
 
