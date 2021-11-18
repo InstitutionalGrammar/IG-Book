@@ -192,6 +192,8 @@ title: IG Book
 
 ```Cac{When A[role=[actor,experiencer]](Program Manager) I(reveals) Bdir[type=abstract]{A,p(accredited) A[role=actor](certifying agent) I[regfunc=violate](is not in compliance) with the Bdir[anim=inanimate,ref=[act,part]]((Act [OR] regulations in this part))} Cac{When A[role=actor](Program Manager) I[regfunc=monitor](((inspects [OR] reviews) [OR] investigates)) Bind,p(accredited) Bind[role=experiencer](certifying agent)}} A[role=actor](Program Manager) D(shall) I(send) Bdir[type=concrete,anim=inanimate](notification) Bdir,p(of non-compliance) to the Bind,p(accredited) Bind[role=[recipient,maleficiary]](certifying agent).```
 
+[Open in IG Parser](http://localhost:8080/?codedStmt=Cac{When%20A[role=[actor,experiencer]](Program%20Manager)%20I(reveals)%20Bdir[type=abstract]{A,p(accredited)%20A[role=actor](certifying%20agent)%20I[regfunc=violate](is%20not%20in%20compliance)%20with%20the%20Bdir[anim=inanimate,ref=[act,part]]((Act%20[OR]%20regulations%20in%20this%20part))}%20Cac{When%20A[role=actor](Program%20Manager)%20I[regfunc=monitor](((inspects%20[OR]%20reviews)%20[OR]%20investigates))%20Bind,p(accredited)%20Bind[role=experiencer](certifying%20agent)}}%20A[role=actor](Program%20Manager)%20D(shall)%20I(send)%20Bdir[type=concrete,anim=inanimate](notification)%20Bdir,p(of%20non-compliance)%20to%20the%20Bind,p(accredited)%20Bind[role=[recipient,maleficiary]](certifying%20agent).)
+
 ## Chapter 8
 
 ### Chapter 8 Example 1
