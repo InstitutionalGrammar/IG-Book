@@ -172,20 +172,28 @@ title: IG Book
 
 ```A(Faculty) D([must]) I([assign]) Bdir(grades).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Faculty%20are%20responsible%20for%20assigning%20grades.&codedStmt=A(Faculty)%20D([must])%20I([assign])%20Bdir(grades).&stmtId=1)
+
 <a name="ed1ch7ex34"></a>
 ### Chapter 7 Example 34
 
 ```E(Faculty) F(are responsible) for P(assigning grades).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Faculty%20are%20responsible%20for%20assigning%20grades.&codedStmt=E(Faculty)%20F(are%20responsible)%20for%20P(assigning%20grades).&stmtId=1)
 
 <a name="ed1ch7ex35"></a>
 ### Chapter 7 Example 35
 
 ```Cac{When A(Program Manager) I(reveals) Bdir{A,p(accredited) A(certifying agent) I([is not in compliance]) with the Bdir((Act [OR] regulations in this part))} Cac{When A(Program Manager) I((([inspects] [OR] [reviews]) [OR] [investigates])) Bind,p(accredited) Bind(certifying agent)}} A([Program Manager]) D(shall) I([send]) Bdir(notification) Bdir,p(of non-compliance) to the Bind,p(accredited) Bind(certifying agent).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=When%20an%20inspection,%20review,%20or%20investigation%20of%20an%20accredited%20certifying%20agent%20by%20the%20Program%20Manager%20reveals%20any%20non-compliance%20with%20the%20Actor%20regulations%20in%20this%20part,%20a%20written%20notification%20of%20non-compliance%20shall%20be%20sent%20to%20the%20certifying%20agent.&codedStmt=Cac{When%20A(Program%20Manager)%20I(reveals)%20Bdir{A,p(accredited)%20A(certifying%20agent)%20I([is%20not%20in%20compliance])%20with%20the%20Bdir((Act%20[OR]%20regulations%20in%20this%20part))}%20Cac{When%20A(Program%20Manager)%20I((([inspects]%20[OR]%20[reviews])%20[OR]%20[investigates]))%20Bind,p(accredited)%20Bind(certifying%20agent)}}%20A([Program%20Manager])%20D(shall)%20I([send])%20Bdir(notification)%20Bdir,p(of%20non-compliance)%20to%20the%20Bind,p(accredited)%20Bind(certifying%20agent).&stmtId=1)
+
 <a name="ed1ch7ex36"></a>
 ### Chapter 7 Example 36
 
 ```E(Audits) F(are) P,p1(financial) P(inspections) P,p2(conducted by a certified authority) P,p2,p(licensed according to this Act).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Audits%20are%20financial%20inspections%20conducted%20by%20a%20certified%20authority%20licensed%20according%20to%20this%20Act.&codedStmt=E(Audits)%20F(are)%20P,p1(financial)%20P(inspections)%20P,p2(conducted%20by%20a%20certified%20authority)%20P,p2,p(licensed%20according%20to%20this%20Act).&stmtId=1)
 
 <a name="ed1ch7ex37"></a>
 ### Chapter 7 Example 37
