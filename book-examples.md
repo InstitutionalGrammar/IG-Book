@@ -132,25 +132,35 @@ title: IG Book
 
 ```E,p(All) E(individuals) E,p((16 years of age and older [AND] that reside in the United States)) F(are eligible) Cex(by law) P(to receive the COVID vaccine).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=All%20individuals%2016%20years%20of%20age%20and%20older%20that%20reside%20in%20the%20United%20States%20are%20eligible%20by%20law%20to%20receive%20the%20COVID%20vaccine.&codedStmt=E,p(All)%20E(individuals)%20E,p((16%20years%20of%20age%20and%20older%20[AND]%20that%20reside%20in%20the%20United%20States))%20F(are%20eligible)%20Cex(by%20law)%20P(to%20receive%20the%20COVID%20vaccine).&stmtId=1)
+
 <a name="ed1ch7ex26"></a>
 ### Chapter 7 Example 26
 
 ```A E(Renewable Energy Generation Unit) M(may) F(qualify) P(as a Class II Generation Unit) Cex(subject to regulatory provisions).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=A%20Renewable%20Energy%20Generation%20Unit%20may%20qualify%20as%20a%20Class%20II%20Generation%20Unit%20subject%20to%20regulatory%20provisions.&codedStmt=A%20E(Renewable%20Energy%20Generation%20Unit)%20M(may)%20F(qualify)%20P(as%20a%20Class%20II%20Generation%20Unit)%20Cex(subject%20to%20regulatory%20provisions).&stmtId=1)
 
 <a name="ed1ch7ex27"></a>
 ### Chapter 7 Example 27
 
 ```An E(approval) E,p(granted by the Department) M(shall) F(be) a P,p(temporary) P(approval) Cex(only).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=An%20approval%20granted%20by%20the%20Department%20shall%20be%20a%20temporary%20approval%20only.&codedStmt=An%20E(approval)%20E,p(granted%20by%20the%20Department)%20M(shall)%20F(be)%20a%20P,p(temporary)%20P(approval)%20Cex(only).&stmtId=1)
+
 <a name="ed1ch7ex28"></a>
 ### Chapter 7 Example 28
 
 ```E(Inspection procedures) F(are regulated) P(by provisions) P,p(laid out in Section 2).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Inspection%20procedures%20are%20regulated%20by%20provisions%20laid%20out%20in%20Section%202.&codedStmt=E(Inspection%20procedures)%20F(are%20regulated)%20P(by%20provisions)%20P,p(laid%20out%20in%20Section%202).&stmtId=1)
+
 <a name="ed1ch7ex29"></a>
 ### Chapter 7 Example 29
 
 ```E(Audits) F(are) P,p(financial) P(inspections) P,p(conducted by a certified authority licensed according to this Act).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Audits%20are%20financial%20inspections%20conducted%20by%20a%20certified%20authority%20licensed%20according%20to%20this%20Act.&codedStmt=E(Audits)%20F(are)%20P,p(financial)%20P(inspections)%20P,p(conducted%20by%20a%20certified%20authority%20licensed%20according%20to%20this%20Act).&stmtId=1)
 
 <a name="ed1ch7ex30"></a>
 ### Chapter 7 Example 30
@@ -162,10 +172,14 @@ title: IG Book
 
 ```A(Board members) I(serve) Cex(as organizational leaders).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Board%20members%20serve%20as%20organizational%20leaders.&codedStmt=A(Board%20members)%20I(serve)%20Cex(as%20organizational%20leaders).&stmtId=1)
+
 <a name="ed1ch7ex32"></a>
 ### Chapter 7 Example 32
 
 ```E(Board members) F(serve as) P,p(organizational) P(leaders).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Board%20members%20serve%20as%20organizational%20leaders.&codedStmt=E(Board%20members)%20F(serve%20as)%20P,p(organizational)%20P(leaders).&stmtId=1)
 
 <a name="ed1ch7ex33"></a>
 ### Chapter 7 Example 33
