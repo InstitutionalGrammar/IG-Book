@@ -107,10 +107,14 @@ title: IG Book
 
 ```A(State) D(will) I(rely) Bdir(on the advice) Bdir,p(of recognized (clinical experts [AND] scientists)) Cex(to (review [AND] approve) the (safety [AND] effectiveness) of every vaccine that is authorized by the federal government for distribution).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20State%20will%20rely%20on%20the%20advice%20of%20recognized%20clinical%20experts%20and%20scientists%20to%20review%20and%20approve%20the%20safety%20and%20effectiveness%20of%20every%20vaccine%20that%20is%20authorized%20by%20the%20federal%20government%20for%20distribution.&codedStmt=A(State)%20D(will)%20I(rely)%20Bdir(on%20the%20advice)%20Bdir,p(of%20recognized%20(clinical%20experts%20[AND]%20scientists))%20Cex(to%20(review%20[AND]%20approve)%20the%20(safety%20[AND]%20effectiveness)%20of%20every%20vaccine%20that%20is%20authorized%20by%20the%20federal%20government%20for%20distribution).&stmtId=1)
+
 <a name="ed1ch7ex21"></a>
 ### Chapter 7 Example 21
 
 ```A(A sailing vessel) D(shall not) I(impede) Bdir(the passage of a vessel) Bdir,p(that can safely navigate only within a narrow channel or fairway).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A(A%20sailing%20vessel)%20D(shall%20not)%20I(impede)%20Bdir(the%20passage%20of%20a%20vessel)%20Bdir,p(that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway).&stmtId=1)
 
 <a name="ed1ch7ex22"></a>
 ### Chapter 7 Example 22
