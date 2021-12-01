@@ -117,15 +117,21 @@ title: IG Book
 
 ```A(Businesses) D(must) I(submit) Bdir,p(a financial) Bdir(report) Cex(annually), O{A(authorizing body) D(may) I(suspend) Bdir(operating license)}.```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Businesses%20must%20submit%20a%20financial%20report%20annually,%20or%20else%20authorizing%20body%20may%20suspend%20operating%20license.&codedStmt=A(Businesses)%20D(must)%20I(submit)%20Bdir,p(a%20financial)%20Bdir(report)%20Cex(annually),%20O{A(authorizing%20body)%20D(may)%20I(suspend)%20Bdir(operating%20license)}.&stmtId=1)
+
 <a name="ed1ch7ex23"></a>
 ### Chapter 7 Example 23
 
 ```A(farmer) D([must]) I(submit) Bdir,p(an organic systems) Bdir(plan) Cex(by the end of the calendar year) O{the A(certifier) D(may) I(suspend) the Bdir,p(farmer’s) Bdir(operating license)}.```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=If%20farmer%20fails%20to%20submit%20an%20organic%20system%27s%20plan%20by%20the%20end%20of%20the%20calendar%20year,%20the%20certifier%20may%20suspend%20farmer%E2%80%99s%20operating%20license.&codedStmt=A(farmer)%20D([must])%20I(submit)%20Bdir,p(an%20organic%20systems)%20Bdir(plan)%20Cex(by%20the%20end%20of%20the%20calendar%20year)%20O{the%20A(certifier)%20D(may)%20I(suspend)%20the%20Bdir,p(farmer%E2%80%99s)%20Bdir(operating%20license)}.&stmtId=1)
+
 <a name="ed1ch7ex24"></a>
 ### Chapter 7 Example 24
 
 ```E(Board Directors) F(are) P(“fiduciaries”) P,p(of the organization they serve).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Board%20Directors%20are%20%E2%80%9Cfiduciaries%E2%80%9D%20of%20the%20organization%20they%20serve.&codedStmt=E(Board%20Directors)%20F(are)%20P(%E2%80%9Cfiduciaries%E2%80%9D)%20P,p(of%20the%20organization%20they%20serve).&stmtId=1)
 
 <a name="ed1ch7ex25"></a>
 ### Chapter 7 Example 25
