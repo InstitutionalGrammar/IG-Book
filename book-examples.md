@@ -12,30 +12,42 @@ title: IG Book
 
 ```A(Actor)```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Actor&codedStmt=A(Actor)&stmtId=1)
+
 <a name="ed1ch7ex2"></a>
 ### Chapter 7 Example 2
 
 ```A(Actor) D(must) I(conform) with Bdir(policy) Cac(from 1st January) Cex(under all circumstances)```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Actor%20must%20conform%20with%20policy%20from%201st%20January%20under%20all%20circumstances.&codedStmt=A(Actor)%20D(must)%20I(conform)%20with%20Bdir(policy)%20Cac(from%201st%20January)%20Cex(under%20all%20circumstances)&stmtId=1)
 
 <a name="ed1ch7ex3"></a>
 ### Chapter 7 Example 3
 
 ```I(conform) D(must) with Cac(from 1st January) Cex(under all circumstances) Bdir(policy) A(Actor)```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Actor%20must%20conform%20with%20policy%20from%201st%20January%20under%20all%20circumstances.&codedStmt=I(conform)%20D(must)%20with%20Cac(from%201st%20January)%20Cex(under%20all%20circumstances)%20Bdir(policy)%20A(Actor)&stmtId=1)
+
 <a name="ed1ch7ex4"></a>
 ### Chapter 7 Example 4
 
 ```A,p(certified) A(operation) ...```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=certified%20operation%20...&codedStmt=A,p(certified)%20A(operation)%20...&stmtId=1)
 
 <a name="ed1ch7ex5"></a>
 ### Chapter 7 Example 5
 
 ```A(Actor) D(must) I((accept [XOR] cede)) Bdir(responsibility)```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Actor%20must%20accept%20or%20cede%20responsibility.&codedStmt=A(Actor)%20D(must)%20I((accept%20[XOR]%20cede))%20Bdir(responsibility).&stmtId=1)
+
 <a name="ed1ch7ex6"></a>
 ### Chapter 7 Example 6
 
 ```A(Actor) D(must) I(accept) I(fulfill) Bdir(responsibility)```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Actor%20must%20accept%20and%20fulfill%20responsibility.&codedStmt=A(Actor)%20D(must)%20I(accept)%20I(fulfill)%20Bdir(responsibility)&stmtId=1)
 
 <a name="ed1ch7ex7"></a>
 ### Chapter 7 Example 7
@@ -46,6 +58,8 @@ title: IG Book
 ### Chapter 7 Example 8
 
 ```A(Actor) D(must) I(([NOT] accept [XOR] cede)) Bdir(responsibility)```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Actor%20must%20not%20accept%20or%20cede%20responsibility.&codedStmt=A(Actor)%20D(must)%20I(([NOT]%20accept%20[XOR]%20cede))%20Bdir(responsibility).&stmtId=1)
 
 <a name="ed1ch7ex9"></a>
 ### Chapter 7 Example 9
@@ -62,45 +76,63 @@ title: IG Book
 
 ```A(citizen) D(must) I(conform) with Bdir(policy) O{A(official) D(may) I(sanction) Bdir(citizen) Cex(immediately)}.```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20citizen%20must%20conform%20with%20policy%20or%20else%20official%20may%20sanction%20citizen%20immediately.&codedStmt=A(citizen)%20D(must)%20I(conform)%20with%20Bdir(policy)%20O{A(official)%20D(may)%20I(sanction)%20Bdir(citizen)%20Cex(immediately)}.&stmtId=1)
+
 <a name="ed1ch7ex12"></a>
 ### Chapter 7 Example 12
 
-```E(Policy) F[confunc=lifecycle](applies) Cac[tmp=date](1st January)```
+```E(Policy) F[confunc=lifecycle](applies) Cac[tmp=date](1st January).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Policy%20applies%20from%201st%20January.&codedStmt=E(Policy)%20F[confunc=lifecycle](applies)%20Cac[tmp=date](1st%20January).&stmtId=1)
 
 <a name="ed1ch7ex13"></a>
 ### Chapter 7 Example 13
 
 ```... Cac[ctx=tmp[initiation,termination]](between June and July) ...```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=...%20between%20June%20and%20July%20...&codedStmt=...%20Cac[ctx=tmp[initiation,termination]](between%20June%20and%20July)%20...&stmtId=1)
+
 <a name="ed1ch7ex14"></a>
 ### Chapter 7 Example 14
 
 ```A[role=experiencer,animacy=animate](Program Manager) ...```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Program%20Manager%20...&codedStmt=A[role=experiencer,animacy=animate](Program%20Manager)%20...&stmtId=1)
 
 <a name="ed1ch7ex15"></a>
 ### Chapter 7 Example 15
 
 ```A(Program Manager) I([sends]) ...```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Program%20Manager%20...&codedStmt=A(Program%20Manager)%20I([sends])%20...&stmtId=1)
+
 <a name="ed1ch7ex16"></a>
 ### Chapter 7 Example 16
 
 ```A A(student) D(may) I(request) an Bdir(Incomplete) Cac(if the student has exceptional circumstances that prevent the student from fulfilling all course requirements on time).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=A%20student%20may%20request%20an%20Incomplete%20if%20the%20student%20has%20exceptional%20circumstances%20that%20prevent%20the%20student%20from%20fulfilling%20all%20course%20requirements%20on%20time.&codedStmt=A%20A(student)%20D(may)%20I(request)%20an%20Bdir(Incomplete)%20Cac(if%20the%20student%20has%20exceptional%20circumstances%20that%20prevent%20the%20student%20from%20fulfilling%20all%20course%20requirements%20on%20time).&stmtId=1)
 
 <a name="ed1ch7ex17"></a>
 ### Chapter 7 Example 17
 
 ```A(Students) D(are expected to) I(attend) Bdir,p(all) Bdir(class sessions) Cac([at all times]) Cex([no constraints]).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Students%20are%20expected%20to%20attend%20all%20class%20sessions.&codedStmt=A(Students)%20D(are%20expected%20to)%20I(attend)%20Bdir,p(all)%20Bdir(class%20sessions)%20Cac([at%20all%20times])%20Cex([no%20constraints]).&stmtId=1)
+
 <a name="ed1ch7ex18"></a>
 ### Chapter 7 Example 18
 
 ```Cac(If physical access to university is restricted) A(instructors) D(shall) I(deliver) Bdir(courses) Cex(via online teaching platforms).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=If%20physical%20access%20to%20university%20is%20restricted,%20instructors%20shall%20deliver%20courses%20via%20online%20teaching%20platforms.&codedStmt=Cac(If%20physical%20access%20to%20university%20is%20restricted)%20A(instructors)%20D(shall)%20I(deliver)%20Bdir(courses)%20Cex(via%20online%20teaching%20platforms).&stmtId=1)
+
 <a name="ed1ch7ex19"></a>
 ### Chapter 7 Example 19
 
 ```A(Instructors) I(set) Bdir,p(course-specific) Bdir(policies) Bdir,p(on absences from scheduled class meetings) Cex(in their syllabi).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Instructors%20set%20course-specific%20policies%20on%20absences%20from%20scheduled%20class%20meetings%20in%20their%20syllabi.&codedStmt=A(Instructors)%20I(set)%20Bdir,p(course-specific)%20Bdir(policies)%20Bdir,p(on%20absences%20from%20scheduled%20class%20meetings)%20Cex(in%20their%20syllabi).&stmtId=1)
 
 <a name="ed1ch7ex20"></a>
 ### Chapter 7 Example 20
