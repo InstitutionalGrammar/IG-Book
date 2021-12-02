@@ -265,10 +265,14 @@ title: IG Book
 
 ```The A(Program Manager) D(may) I(initiate) Bdir,p((suspension [XOR] revocation)) Bdir(proceedings) against a Bind,p(certified) Bind(operation): {Cac{when the A(Program Manager) I(believes) that Bdir{a A,p(certified) A(operation) I((has violated [OR] is not in compliance)) Bdir(with (the Act [OR] regulations in this part))}}, [OR] Cac{when a A((certifying agent [OR] State organic program’s governing State official)) I(fails to enforce) Bdir((the Act [OR] regulations in this part)).}}```
 
+<!-- [Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Program%20Manager%20may%20initiate%20suspension%20or%20revocation%20proceedings%20against%20a%20certified%20operation:%20when%20the%20Program%20Manager%20believes%20that%20a%20certified%20operation%20has%20violated%20or%20is%20not%20in%20compliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20or%20when%20a%20certifying%20agent%20or%20State%20organic%20program%E2%80%99s%20governing%20State%20official%20fails%20to%20enforce%20the%20Act%20or%20regulations%20in%20this%20part.&codedStmt=The%20A(Program%20Manager)%20D(may)%20I(initiate)%20Bdir,p((suspension%20[XOR]%20revocation))%20Bdir(proceedings)%20against%20a%20Bind,p(certified)%20Bind(operation):%20{Cac{when%20the%20A(Program%20Manager)%20I(believes)%20that%20Bdir{a%20A,p(certified)%20A(operation)%20I((has%20violated%20[OR]%20is%20not%20in%20compliance))%20Bdir(with%20(the%20Act%20[OR]%20regulations%20in%20this%20part))}},%20[OR]%20Cac{when%20a%20A((certifying%20agent%20[OR]%20State%20organic%20program%E2%80%99s%20governing%20State%20official))%20I(fails%20to%20enforce)%20Bdir((the%20Act%20[OR]%20regulations%20in%20this%20part)).}}&stmtId=1) -->
+
 <a name="ed1ch8ex2"></a>
 ### Chapter 8 Example 2
 
 ```A A(certifying agent) D(must) I(notify) the Bind(Program Manager) of Bdir,p(all) Bdir(compliance (proceedings [AND] actions)) Bdir,p(taken pursuant to this part).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=A%20certifying%20agent%20must%20notify%20the%20Program%20Manager%20of%20all%20compliance%20proceedings%20and%20actions%20taken%20pursuant%20to%20this%20part.&codedStmt=A%20A(certifying%20agent)%20D(must)%20I(notify)%20the%20Bind(Program%20Manager)%20of%20Bdir,p(all)%20Bdir(compliance%20(proceedings%20[AND]%20actions))%20Bdir,p(taken%20pursuant%20to%20this%20part).&stmtId=1)
 
 <a name="ed1ch8ex3"></a>
 ### Chapter 8 Example 3
@@ -280,40 +284,56 @@ title: IG Book
 
 ```Cac{If A(Program Manager) I(fails to submit) Bdir(notification) Bdir,p(of noncompliance)} E(noncompliance proceedings) F(are considered) P(not initiated).```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=If%20Program%20Manager%20fails%20to%20submit%20notification%20of%20noncompliance,%20noncompliance%20proceedings%20are%20considered%20not%20initiated.&codedStmt=Cac{If%20A(Program%20Manager)%20I(fails%20to%20submit)%20Bdir(notification)%20Bdir,p(of%20noncompliance)},%20E(noncompliance%20proceedings)%20F(are%20considered)%20P(not%20initiated).&stmtId=1)
+
 <a name="ed1ch8ex5"></a>
 ### Chapter 8 Example 5
 
 ```Cac{When A([Program Manager]) I(reveals) an Bdir,p[proptype=quan](any) Bdir(noncompliance) Cex(with the (Act [OR] regulations in this part)) Cac{When A([Program Manager]) I(inspects) an Bdir,p[proptype=qual](accredited) Bdir(certifying agent)}} A(Program Manager) D(shall) I(send) Bdir,p(written) Bdir[proptype=structure](notification) Bdir,p(of noncompliance) to the Bind(certifying agent).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=When%20an%20inspection%20of%20an%20accredited%20certifying%20agent%20by%20the%20Program%20Manager%20reveals%20any%20noncompliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20a%20written%20notification%20of%20noncompliance%20shall%20be%20sent%20to%20the%20certifying%20agent.&codedStmt=Cac{When%20A([Program%20Manager])%20I(reveals)%20an%20Bdir,p[proptype=quan](any)%20Bdir(noncompliance)%20Cex(with%20the%20(Act%20[OR]%20regulations%20in%20this%20part))%20Cac{When%20A([Program%20Manager])%20I(inspects)%20an%20Bdir,p[proptype=qual](accredited)%20Bdir(certifying%20agent)}}%20A(Program%20Manager)%20D(shall)%20I(send)%20Bdir,p(written)%20Bdir[proptype=structure](notification)%20Bdir,p(of%20noncompliance)%20to%20the%20Bind(certifying%20agent).&stmtId=1)
 
 <a name="ed1ch8ex6"></a>
 ### Chapter 8 Example 6
 
 ```The A(Program Manager) D(may) I(initiate) Bdir,p(revocation) Bdir(proceedings) against a Bind,p(certified) Bind(operation): {Cac{when the A(Program Manager) I(believes) that a Bdir{A,p(certified) A(operation) has I(violated) the Bdir(Act)}}, [OR] Cac{when a A(certifying agent) I(fails to enforce) Bdir(the Act).}}```
 
+<!--[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Program%20Manager%20may%20initiate%20revocation%20proceedings%20against%20a%20certified%20operation:%20when%20the%20Program%20Manager%20believes%20that%20a%20certified%20operation%20has%20violated%20the%20Act,%20or%20when%20a%20certifying%20agent%20fails%20to%20enforce%20the%20Act.&codedStmt=The%20A(Program%20Manager)%20D(may)%20I(initiate)%20Bdir,p(revocation)%20Bdir(proceedings)%20against%20a%20Bind,p(certified)%20Bind(operation):%20{Cac{when%20the%20A(Program%20Manager)%20I(believes)%20that%20a%20Bdir{A,p(certified)%20A(operation)%20has%20I(violated)%20the%20Bdir(Act)}},%20[OR]%20Cac{when%20a%20A(certifying%20agent)%20I(fails%20to%20enforce)%20Bdir(the%20Act).}}&stmtId=1)-->
+
 <a name="ed1ch8ex7"></a>
 ### Chapter 8 Example 7
 
 ```E(Councils) E,p(missing minority representation) F(are) P(illegitimate)```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Councils%20missing%20minority%20representation%20are%20illegitimate.&codedStmt=E(Councils)%20E,p(missing%20minority%20representation)%20F(are)%20P(illegitimate).&stmtId=1)
 
 <a name="ed1ch8ex8"></a>
 ### Chapter 8 Example 8
 
 ```E(Councils) F(are) P(illegitimate) Cac(missing minority representation)```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Councils%20are%20illegitimate%20missing%20minority%20representation.&codedStmt=E(Councils)%20F(are)%20P(illegitimate)%20Cac(missing%20minority%20representation).&stmtId=1)
+
 <a name="ed1ch8ex9"></a>
 ### Chapter 8 Example 9
 
 ```E(Councils) F(are) P(illegitimate) Cac{if E(Councils) F(do not have) P(minority representation)}```
 
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Councils%20are%20illegitimate%20if%20Councils%20do%20not%20have%20minority%20representation.&codedStmt=E(Councils)%20F(are)%20P(illegitimate)%20Cac{if%20E(Councils)%20F(do%20not%20have)%20P(minority%20representation)}.&stmtId=1)
+
 <a name="ed1ch8ex10"></a>
 ### Chapter 8 Example 10
 
-```E(Councils) M(are required) F(to have) P(minority representation) O{E(Councils) F(are) P(illegitimate)}```
+```E(Councils) M(are required) F(to have) P(minority representation) O{E(Councils) F(are) P(illegitimate)}.```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Councils%20are%20required%20to%20have%20minority%20representation,%20or%20else%20Councils%20are%20illegitimate.&codedStmt=E(Councils)%20M(are%20required)%20F(to%20have)%20P(minority%20representation)%20O{E(Councils)%20F(are)%20P(illegitimate)}.&stmtId=1)
 
 <a name="ed1ch8ex11"></a>
 ### Chapter 8 Example 11
 
-```A(Councils) D(must) I([establish]) Bdir(minority representation) O{E(Councils) F(are) P(illegitimate)}```
+```A(Councils) D(must) I([establish]) Bdir(minority representation) O{E(Councils) F(are) P(illegitimate)}.```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Councils%20must%20[establish]%20minority%20representation,%20or%20else%20Councils%20are%20illegitimate.&codedStmt=A(Councils)%20D(must)%20I([establish])%20Bdir(minority%20representation)%20O{E(Councils)%20F(are)%20P(illegitimate)}.&stmtId=1)
 
 <a name="ed1ch8ex12"></a>
 ### Chapter 8 Example 12
