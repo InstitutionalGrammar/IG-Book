@@ -277,7 +277,7 @@ title: IG Book
 <a name="ed1ch8ex3"></a>
 ### Chapter 8 Example 3
 
-```Cac{When A([Program Manager]) I(reveals) an Bdir,p(any) Bdir(noncompliance) Cex(with the (Act [OR] regulations in this part)) Cac{When A([Program Manager]) I(inspects) an Bdir,p(accredited) Bdir(certifying agent)}} A(Program Manager) D(shall) I(send) Bdir,p(written) Bdir(notification) Bdir,p(of noncompliance) to the Bind(certifying agent).```
+```Cac{When A([Program Manager]) I(reveals) Bdir,p(any) Bdir(noncompliance) Cex(with the (Act [OR] regulations in this part)) Cac{When A([Program Manager]) I(inspects) an Bdir,p(accredited) Bdir(certifying agent)}} A(Program Manager) D(shall) I(send) Bdir,p(written) Bdir(notification) Bdir,p(of noncompliance) to the Bind(certifying agent).```
 
 <a name="ed1ch8ex4"></a>
 ### Chapter 8 Example 4
@@ -289,9 +289,9 @@ title: IG Book
 <a name="ed1ch8ex5"></a>
 ### Chapter 8 Example 5
 
-```Cac{When A([Program Manager]) I(reveals) an Bdir,p[proptype=quan](any) Bdir(noncompliance) Cex(with the (Act [OR] regulations in this part)) Cac{When A([Program Manager]) I(inspects) an Bdir,p[proptype=qual](accredited) Bdir(certifying agent)}} A(Program Manager) D(shall) I(send) Bdir,p(written) Bdir[proptype=structure](notification) Bdir,p(of noncompliance) to the Bind(certifying agent).```
+```Cac{When A([Program Manager]) I(reveals) Bdir,p[proptype=quan](any) Bdir(noncompliance) Cex(with the (Act [OR] regulations in this part)) Cac{When A([Program Manager]) I(inspects) an Bdir,p[proptype=qual](accredited) Bdir(certifying agent)}} A(Program Manager) D(shall) I(send) Bdir,p(written) Bdir[proptype=structure](notification) Bdir,p(of noncompliance) to the Bind(certifying agent).```
 
-[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=When%20an%20inspection%20of%20an%20accredited%20certifying%20agent%20by%20the%20Program%20Manager%20reveals%20any%20noncompliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20a%20written%20notification%20of%20noncompliance%20shall%20be%20sent%20to%20the%20certifying%20agent.&codedStmt=Cac{When%20A([Program%20Manager])%20I(reveals)%20an%20Bdir,p[proptype=quan](any)%20Bdir(noncompliance)%20Cex(with%20the%20(Act%20[OR]%20regulations%20in%20this%20part))%20Cac{When%20A([Program%20Manager])%20I(inspects)%20an%20Bdir,p[proptype=qual](accredited)%20Bdir(certifying%20agent)}}%20A(Program%20Manager)%20D(shall)%20I(send)%20Bdir,p(written)%20Bdir[proptype=structure](notification)%20Bdir,p(of%20noncompliance)%20to%20the%20Bind(certifying%20agent).&stmtId=1)
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=When%20an%20inspection%20of%20an%20accredited%20certifying%20agent%20by%20the%20Program%20Manager%20reveals%20any%20noncompliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20a%20written%20notification%20of%20noncompliance%20shall%20be%20sent%20to%20the%20certifying%20agent.&codedStmt=Cac{When%20A([Program%20Manager])%20I(reveals)%20Bdir,p[proptype=quan](any)%20Bdir(noncompliance)%20Cex(with%20the%20(Act%20[OR]%20regulations%20in%20this%20part))%20Cac{When%20A([Program%20Manager])%20I(inspects)%20an%20Bdir,p[proptype=qual](accredited)%20Bdir(certifying%20agent)}}%20A(Program%20Manager)%20D(shall)%20I(send)%20Bdir,p(written)%20Bdir[proptype=structure](notification)%20Bdir,p(of%20noncompliance)%20to%20the%20Bind(certifying%20agent).&stmtId=1)
 
 <a name="ed1ch8ex6"></a>
 ### Chapter 8 Example 6
