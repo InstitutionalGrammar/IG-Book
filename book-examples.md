@@ -207,7 +207,11 @@ title: IG Book
 <a name="ed1ch7ex30"></a>
 ### Chapter 7 Example 30
 
-```The E(item in question) M(must) F(have) the P,p(following) P(characteristics). E([Characteristics]) F([are]): {P{A(Board of Directors) D(must) Cex(duly) I(be passed [pass]) Bdir([item in question])} [AND] P{A([Board of Directors]) I(establish) Bdir((rule [OR] convention)) Bdir,p(of general application) Bind([of item in question])} [AND] P{E([the item in question]) M(must) F(be) P(mission-consistent)}.}.```
+```E([Characteristics]) F([are]): {P{A(Board of Directors) D(must) Cex(duly) I(be passed [pass]) Bdir([item in question])} [AND] P{A([Board of Directors]) I(establish) Bdir((rule [OR] convention)) Bdir,p(of general application) Bind([of item in question])} [AND] P{E([the item in question]) M(must) F(be) P(mission-consistent)}.}.```
+
+
+<!-- only focusing on second statement, i.e., omitted The E(item in question) M(must) F(have) the P,p(following) P(characteristics). -->
+
 
 <a name="ed1ch7ex31"></a>
 ### Chapter 7 Example 31
@@ -265,7 +269,7 @@ title: IG Book
 
 ```The A(Program Manager) D(may) I(initiate) Bdir,p((suspension [XOR] revocation)) Bdir(proceedings) against a Bind,p(certified) Bind(operation): {Cac{when the A(Program Manager) I(believes) that Bdir{a A,p(certified) A(operation) I((has violated [OR] is not in compliance)) Bdir(with (the Act [OR] regulations in this part))}}, [OR] Cac{when a A((certifying agent [OR] State organic program’s governing State official)) I(fails to enforce) Bdir((the Act [OR] regulations in this part)).}}```
 
-<!-- [Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Program%20Manager%20may%20initiate%20suspension%20or%20revocation%20proceedings%20against%20a%20certified%20operation:%20when%20the%20Program%20Manager%20believes%20that%20a%20certified%20operation%20has%20violated%20or%20is%20not%20in%20compliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20or%20when%20a%20certifying%20agent%20or%20State%20organic%20program%E2%80%99s%20governing%20State%20official%20fails%20to%20enforce%20the%20Act%20or%20regulations%20in%20this%20part.&codedStmt=The%20A(Program%20Manager)%20D(may)%20I(initiate)%20Bdir,p((suspension%20[XOR]%20revocation))%20Bdir(proceedings)%20against%20a%20Bind,p(certified)%20Bind(operation):%20{Cac{when%20the%20A(Program%20Manager)%20I(believes)%20that%20Bdir{a%20A,p(certified)%20A(operation)%20I((has%20violated%20[OR]%20is%20not%20in%20compliance))%20Bdir(with%20(the%20Act%20[OR]%20regulations%20in%20this%20part))}},%20[OR]%20Cac{when%20a%20A((certifying%20agent%20[OR]%20State%20organic%20program%E2%80%99s%20governing%20State%20official))%20I(fails%20to%20enforce)%20Bdir((the%20Act%20[OR]%20regulations%20in%20this%20part)).}}&stmtId=1) -->
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Program%20Manager%20may%20initiate%20suspension%20or%20revocation%20proceedings%20against%20a%20certified%20operation:%20when%20the%20Program%20Manager%20believes%20that%20a%20certified%20operation%20has%20violated%20or%20is%20not%20in%20compliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20or%20when%20a%20certifying%20agent%20or%20State%20organic%20program%E2%80%99s%20governing%20State%20official%20fails%20to%20enforce%20the%20Act%20or%20regulations%20in%20this%20part.&codedStmt=The%20A(Program%20Manager)%20D(may)%20I(initiate)%20Bdir,p((suspension%20[XOR]%20revocation))%20Bdir(proceedings)%20against%20a%20Bind,p(certified)%20Bind(operation):%20{Cac{when%20the%20A(Program%20Manager)%20I(believes)%20that%20Bdir{a%20A,p(certified)%20A(operation)%20I((has%20violated%20[OR]%20is%20not%20in%20compliance))%20Bdir(with%20(the%20Act%20[OR]%20regulations%20in%20this%20part))}},%20[OR]%20Cac{when%20a%20A((certifying%20agent%20[OR]%20State%20organic%20program%E2%80%99s%20governing%20State%20official))%20I(fails%20to%20enforce)%20Bdir((the%20Act%20[OR]%20regulations%20in%20this%20part)).}}&stmtId=1)
 
 <a name="ed1ch8ex2"></a>
 ### Chapter 8 Example 2
@@ -278,6 +282,8 @@ title: IG Book
 ### Chapter 8 Example 3
 
 ```Cac{When A([Program Manager]) I(reveals) Bdir,p(any) Bdir(noncompliance) Cex(with the (Act [OR] regulations in this part)) Cac{When A([Program Manager]) I(inspects) an Bdir,p(accredited) Bdir(certifying agent)}} A(Program Manager) D(shall) I(send) Bdir,p(written) Bdir(notification) Bdir,p(of noncompliance) to the Bind(certifying agent).```
+
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=When%20an%20inspection%20...%20of%20an%20accredited%20certifying%20agent%20by%20the%20Program%20Manager%20reveals%20any%20noncompliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20a%20written%20notification%20of%20noncompliance%20shall%20be%20sent%20to%20the%20certifying%20agent.&codedStmt=Cac{When%20A([Program%20Manager])%20I(reveals)%20Bdir,p(any)%20Bdir(noncompliance)%20Cex(with%20the%20(Act%20[OR]%20regulations%20in%20this%20part))%20Cac{When%20A([Program%20Manager])%20I(inspects)%20an%20Bdir,p(accredited)%20Bdir(certifying%20agent)}}%20A(Program%20Manager)%20D(shall)%20I(send)%20Bdir,p(written)%20Bdir(notification)%20Bdir,p(of%20noncompliance)%20to%20the%20Bind(certifying%20agent).&stmtId=1)
 
 <a name="ed1ch8ex4"></a>
 ### Chapter 8 Example 4
