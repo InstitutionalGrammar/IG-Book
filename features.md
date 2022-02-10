@@ -165,3 +165,4 @@ IG Logico aims at developing an epistemological linkage between the domain of in
 With the encoding on higher levels of expressiveness (IG Extended or Logico), institutional statements can be transformed algorithmically, e.g., to reflect policy from specific actors' perspectives, establish a uniform structural representation to facilitate downstream analysis or comparative studies, or extrapolation multiple involved actors' perspectives tacitly captured in institutional statements for richer behavioral models or assessment of biases captured in policy. See Section 6.1.4 of the book for details on transformation rules and Section 8.3 for illustrative applications. 
   
 </details>
+<br/> 
