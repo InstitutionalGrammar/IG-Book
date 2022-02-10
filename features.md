@@ -38,6 +38,8 @@ The IG has found application in diverse domains. The refined IG aims at better a
 
 </details>
   
+<br/>
+
 ## IG Features
 
 <br/>
