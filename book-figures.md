@@ -67,12 +67,6 @@ Selected figures in the book appear small in the book due to format constraints.
 
 <center><img src="/figures/IG-Bib-Complete.png" width="90%"></center>
 
-### Chapter 9 Figures
-
-#### Figure 9.1: Institutional Grammar 2.0 by Levels of Expressiveness and associated Perspectives, Concepts and Analytical Applications
-
-<center><img src="/figures/IG-Bib-Complete.png" width="90%"></center>
-
 <br/><br/>
 ### Appendix A Figures
 
