@@ -7,7 +7,6 @@ title: IG Book
 
 Selected figures in the book appear small in the book due to format constraints. Enlarged versions of the corresponding figures are displayed below.
 
-<br/><br/>
 ### Chapter 5 Figures
 
 #### Figure 5.7: Context Taxonomy
