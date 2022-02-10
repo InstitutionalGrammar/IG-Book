@@ -3,9 +3,16 @@ layout: default
 title: IG Book
 ---
 
-# Book Examples of IG Script-coded Institutional Statements
+# Book Examples of IG Script-encoded Institutional Statements
 
-## Chapter 7
+This page lists IG Script-encoded institutional statements examples introduced in Chapter 7 and 8 of the IG Book. Where currently supported, the examples are augmented with links to the prepopulated version of that statement in the IG Parser. The IG Parser is a currently developed implementation to showcase the computational processing of the encoded information, with specific focus on the transformation of encoded statements into tabular output format for further analytical treatment. Additional features under active development include the calculation of analytical metrics for complex institutional statements (as discussed in Chapter 8 of the book), as well as the visual representation of institutional statements. 
+
+For an accessible introduction to IG Script, beyond the intuitive introduction provided in Chapter 7, please refer to the [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937). 
+
+Please note that clicking on the link listed under each statement example of interest in the book should navigate directly to the corresponding statement on this page.
+
+<br/> 
+## Chapter 7 Examples
 
 <a name="ed1ch7ex1"></a>
 ### Chapter 7 Example 1
@@ -262,7 +269,8 @@ title: IG Book
 
 [Open in IG Parser](http://128.39.143.144:4040/?rawStmt=When%20Program%20Manager%20reveals%20that%20accredited%20certifying%20agent%20is%20not%20in%20compliance%20with%20the%20Act%20or%20regulations%20in%20this%20part,%20when%20Program%20Manager%20inspects,%20reviews%20or%20investigates%20accredited%20certifying%20agent,%20Program%20Manager%20shall%20send%20notification%20of%20non-compliance%20to%20the%20accredited%20certifying%20agent.&codedStmt=Cac{When%20A[role=[actor,experiencer]](Program%20Manager)%20I(reveals)%20Bdir[type=abstract]{A,p(accredited)%20A[role=actor](certifying%20agent)%20I[regfunc=violate](is%20not%20in%20compliance)%20with%20the%20Bdir[anim=inanimate,ref=[act,part]]((Act%20[OR]%20regulations%20in%20this%20part))}%20Cac{When%20A[role=actor](Program%20Manager)%20I[regfunc=monitor](((inspects%20[OR]%20reviews)%20[OR]%20investigates))%20Bind,p(accredited)%20Bind[role=experiencer](certifying%20agent)}}%20A[role=actor](Program%20Manager)%20D(shall)%20I(send)%20Bdir[type=concrete,anim=inanimate](notification)%20Bdir,p(of%20non-compliance)%20to%20the%20Bind,p(accredited)%20Bind[role=[recipient,maleficiary]](certifying%20agent).&stmtId=1)
 
-## Chapter 8
+<br/> 
+## Chapter 8 Examples
 
 <a name="ed1ch8ex1"></a>
 ### Chapter 8 Example 1
