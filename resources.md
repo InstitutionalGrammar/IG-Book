@@ -13,17 +13,19 @@ Resources related to the Institutional Grammar more broadly (i.e., specifically 
 
 Conceptual and theoretical guidance is offered by the original Public Administration article, as well as the comprehensive coverage in the book.
 
-Article: Frantz, C. K. and Siddiki, S. (2021): Institutional Grammar 2.0: A Specification for Encoding and Analyzing Institutional Design. Public Administration, 99: 222–247. DOI: <a href="https://doi.org/10.1111/padm.12719" target="_blank">10.1111/padm.12719</a>
+Article: *Frantz, C. K. and Siddiki, S. (2021): Institutional Grammar 2.0: A Specification for Encoding and Analyzing Institutional Design. Public Administration, 99: 222–247. DOI: <a href="https://doi.org/10.1111/padm.12719" target="_blank">10.1111/padm.12719</a>*
 
-Book: Frantz, C. K. and Siddiki, S. (2022): Institutional Grammar — Foundations and Applications for Institutional Analysis, Palgrave-Macmillan. DOI: <a href="https://doi.org/10.1007/978-3-030-86372-2" target="_blank">10.1007/978-3-030-86372-2</a>
+Book: *Frantz, C. K. and Siddiki, S. (2022): <a href="https://link.springer.com/book/9783030863715" target="_blank">Institutional Grammar — Foundations and Applications for Institutional Analysis</a>, Palgrave Macmillan.*
 
 Syntax and Semantics of the Institutional Grammar 2.0: https://github.com/InstitutionalGrammar/IG-2.0-Resources
 
-### Coding Guidance
+### Cheat Sheet & Coding Guidance
 
-Operational guidance for the encoding of institutional information is provided in the frequently updated IG 2.0 Codebook. 
+Operational guidance for the encoding of institutional information is provided in the frequently updated IG 2.0 Codebook. A brief conceptual overview is provided in the IG 2.0 Cheat Sheet.
 
-Codebook: [Institutional Grammar 2.0 Codebook](https://arxiv.org/abs/2008.08937)
+[IG 2.0 Cheat Sheet](https://newinstitutionalgrammar.org/resources/IG%202.0%20Quick%20Reference.pdf)
+
+Codebook: Frantz, C. K. and Siddiki, S. N.: Institutional Grammar 2.0 Codebook, [https://arxiv.org/abs/2008.08937](https://arxiv.org/abs/2008.08937)
 
 ### Upcoming resources
 
