@@ -5,20 +5,23 @@ title: IG Book
 
 ## Enlarged Versions of Selected Figures
 
-Selected figures in the book appear small in the book. Enlarged versions of the corresponding figures are displayed below.
+Selected figures in the book appear small in the book due to format constraints. Enlarged versions of the corresponding figures are displayed below.
 
+<br/><br/>
 ### Chapter 5 Figures
 
 #### Figure 5.7: Context Taxonomy
 
 <center><img src="/figures/ContextTaxonomies.png" width="90%"></center>
 
+<br/><br/>
 ### Chapter 6 Figures
 
 #### Figure 6.5: Institutional Grammar Overview
 
 <center><img src="/figures/IGOverview.png" width="90%"></center>
 
+<br/><br/>
 ### Chapter 8 Figures
 
 #### Figure 8.2: Network structure of compliance excerpt
@@ -57,9 +60,23 @@ Selected figures in the book appear small in the book. Enlarged versions of the 
 
 <center><img src="/figures/InstitutionalTreeExampleLogico.png" width="90%"></center>
 
+<br/><br/>
 ### Chapter 9 Figures
 
 #### Figure 9.1: Institutional Grammar 2.0 by Levels of Expressiveness and associated Perspectives, Concepts and Analytical Applications
 
 <center><img src="/figures/IG-Bib-Complete.png" width="90%"></center>
+
+### Chapter 9 Figures
+
+#### Figure 9.1: Institutional Grammar 2.0 by Levels of Expressiveness and associated Perspectives, Concepts and Analytical Applications
+
+<center><img src="/figures/IG-Bib-Complete.png" width="90%"></center>
+
+<br/><br/>
+### Appendix A Figures
+
+#### Figure A.1: Institutional Statement Structure in the Institutional Grammar 2.0
+
+<center><img src="/figures/InstitutionalStatementStructure.png" width="90%"></center>
 
