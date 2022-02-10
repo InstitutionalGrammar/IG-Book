@@ -38,7 +38,7 @@ Selected figures in the book appear small in the book due to format constraints.
 
 #### Figure 8.5: Institutional State Complexity Metrics across Institutional Tree
 
-<center><img src="/figures/InstitutionalTreeExampleMetrics.png" width="90%"></center>
+<center><img src="/figures/InstitutionalTreeExampleMetrics.png" width="70%"></center>
 
 #### Figure 8.7: IG Compositional Patterns Overview
 
@@ -46,19 +46,19 @@ Selected figures in the book appear small in the book due to format constraints.
 
 #### Figure 8.10: IG Compositional Patterns (Horizontal and Vertical Linkages)
 
-<center><img src="/figures/StatementCompositionExample03.png" width="90%"></center>
+<center><img src="/figures/StatementCompositionExample03.png" width="80%"></center>
 
 #### Figure 8.11: IG compositional patterns example with selected component information
 
-<center><img src="/figures/StatementCompositionExample04.png" width="90%"></center>
+<center><img src="/figures/StatementCompositionExample04.png" width="80%"></center>
 
 #### Figure 8.12: Excerpt of Conceptual Entity Organization
 
-<center><img src="/figures/ConceptOrganization.png" width="90%"></center>
+<center><img src="/figures/ConceptOrganization.png" width="100%"></center>
 
 #### Figure 8.19: Systemic decomposition with effect quantification
 
-<center><img src="/figures/InstitutionalTreeExampleLogico.png" width="90%"></center>
+<center><img src="/figures/InstitutionalTreeExampleLogico.png" width="70%"></center>
 
 <br/><br/>
 ### Chapter 9 Figures
@@ -78,5 +78,5 @@ Selected figures in the book appear small in the book due to format constraints.
 
 #### Figure A.1: Institutional Statement Structure in the Institutional Grammar 2.0
 
-<center><img src="/figures/InstitutionalStatementStructure.png" width="90%"></center>
+<center><img src="/figures/InstitutionalStatementStructure.png" width="100%"></center>
 
