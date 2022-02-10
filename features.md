@@ -5,6 +5,8 @@ title: IG Book
 
 ## Principles
 
+<br/>
+
 <details>
   <summary>Ontological consistency</summary><br/>
   
@@ -38,6 +40,8 @@ The IG has found application in diverse domains. The refined IG aims at better a
   
 ## IG Features
 
+<br/>
+
 The specific features of the IG 2.0 are listed by level of expressiveness, ranging from coarse-grained coding via fine-grained structural coding to the augmentation of institutional statements with semantic concepts. 
 
 <details>
@@ -62,6 +66,8 @@ However, analysts are free to selectively draw on features from specific or acro
 </details>
 
 ### IG Core
+
+<br/>
 
 <details>
 <summary>Regulative and Constitutive Statements</summary><br/>
@@ -102,6 +108,8 @@ Note that this particular example reveals the ambiguous use of `or` in natural l
 
 ### IG Extended
 
+<br/>
+
 <details>
 <summary>Component-level Nesting</summary><br/>
 
@@ -138,6 +146,8 @@ The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual chara
 </details>
 
 ### IG Logico
+
+<br/>
 
 <details>
 <summary>Semantic Annotations</summary><br/>
