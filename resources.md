@@ -17,7 +17,7 @@ Article: *Frantz, C. K. and Siddiki, S. (2021): Institutional Grammar 2.0: A Spe
 
 Book: *Frantz, C. K. and Siddiki, S. (2022): <a href="https://link.springer.com/book/9783030863715" target="_blank">Institutional Grammar — Foundations and Applications for Institutional Analysis</a>, Palgrave Macmillan.*
 
-Syntax and Semantics of the Institutional Grammar 2.0: https://github.com/InstitutionalGrammar/IG-2.0-Resources
+Syntax and Semantics of the Institutional Grammar 2.0: <a href="https://github.com/InstitutionalGrammar/IG-2.0-Resources" target="_blank">https://github.com/InstitutionalGrammar/IG-2.0-Resources</a>
 
 ### Cheat Sheet & Coding Guidance
 
