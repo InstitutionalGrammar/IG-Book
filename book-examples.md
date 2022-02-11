@@ -73,12 +73,12 @@ Please note that clicking on the link listed under each statement example of int
 <a name="ed1ch7ex9"></a>
 ### Chapter 7 Example 9
 
-```{A(Actor) D(must) I(conform) with B dir (policy)} {E(Policy) F(applies) Cac(from 1st January)}```
+```{A(Actor) D(must) I(conform) with Bdir(policy)} {E(Policy) F(applies) Cac(from 1st January)}```
 
 <a name="ed1ch7ex10"></a>
 ### Chapter 7 Example 10
 
-```{ {A(Actor) D(must) I(conform) with B dir (policy)} [AND] {E(Policy) F(applies) Cac(from 1st January)} }```
+```{ {A(Actor) D(must) I(conform) with Bdir(policy)} [AND] {E(Policy) F(applies) Cac(from 1st January)} }```
 
 <a name="ed1ch7ex11"></a>
 ### Chapter 7 Example 11
@@ -220,8 +220,7 @@ Please note that clicking on the link listed under each statement example of int
 
 
 <!-- only focusing on second statement, i.e., omitted The E(item in question) M(must) F(have) the P,p(following) P(characteristics). -->
-
-
+[Open in IG Parser](http://128.39.143.144:4040/visual/?rawStmt=The%20item%20in%20question%20must%20have%20the%20following%20characteristics:%20be%20duly%20passed%20by%20the%20Board%20of%20Directors,%20establish%20rule%20or%20convention%20of%20general%20application,%20and%20must%20be%20mission-consistent.&codedStmt=E([Characteristics])%20F([are]):%20%7BP%7BA(Board%20of%20Directors)%20D(must)%20Cex(duly)%20I(be%20passed%20[pass])%20Bdir([item%20in%20question])%7D%20[AND]%20P%7BA([Board%20of%20Directors])%20I(establish)%20Bdir((rule%20[OR]%20convention))%20Bdir,p(of%20general%20application)%20Bind([of%20item%20in%20question])%7D%20[AND]%20P%7BE([the%20item%20in%20question])%20M(must)%20F(be)%20P(mission-consistent)%7D.%7D&stmtId=1)
 <a name="ed1ch7ex31"></a>
 ### Chapter 7 Example 31
 
@@ -316,7 +315,7 @@ Please note that clicking on the link listed under each statement example of int
 
 ```The A(Program Manager) D(may) I(initiate) Bdir,p(revocation) Bdir(proceedings) against a Bind,p(certified) Bind(operation): {Cac{when the A(Program Manager) I(believes) that a Bdir{A,p(certified) A(operation) has I(violated) the Bdir(Act)}}, [OR] Cac{when a A(certifying agent) I(fails to enforce) Bdir(the Act).}}```
 
-<!--[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Program%20Manager%20may%20initiate%20revocation%20proceedings%20against%20a%20certified%20operation:%20when%20the%20Program%20Manager%20believes%20that%20a%20certified%20operation%20has%20violated%20the%20Act,%20or%20when%20a%20certifying%20agent%20fails%20to%20enforce%20the%20Act.&codedStmt=The%20A(Program%20Manager)%20D(may)%20I(initiate)%20Bdir,p(revocation)%20Bdir(proceedings)%20against%20a%20Bind,p(certified)%20Bind(operation):%20{Cac{when%20the%20A(Program%20Manager)%20I(believes)%20that%20a%20Bdir{A,p(certified)%20A(operation)%20has%20I(violated)%20the%20Bdir(Act)}},%20[OR]%20Cac{when%20a%20A(certifying%20agent)%20I(fails%20to%20enforce)%20Bdir(the%20Act).}}&stmtId=1)-->
+[Open in IG Parser](http://128.39.143.144:4040/?rawStmt=The%20Program%20Manager%20may%20initiate%20revocation%20proceedings%20against%20a%20certified%20operation:%20when%20the%20Program%20Manager%20believes%20that%20a%20certified%20operation%20has%20violated%20the%20Act,%20or%20when%20a%20certifying%20agent%20fails%20to%20enforce%20the%20Act.&codedStmt=The%20A(Program%20Manager)%20D(may)%20I(initiate)%20Bdir,p(revocation)%20Bdir(proceedings)%20against%20a%20Bind,p(certified)%20Bind(operation):%20{Cac{when%20the%20A(Program%20Manager)%20I(believes)%20that%20a%20Bdir{A,p(certified)%20A(operation)%20has%20I(violated)%20the%20Bdir(Act)}},%20[OR]%20Cac{when%20a%20A(certifying%20agent)%20I(fails%20to%20enforce)%20Bdir(the%20Act).}}&stmtId=1)
 
 <a name="ed1ch8ex7"></a>
 ### Chapter 8 Example 7
