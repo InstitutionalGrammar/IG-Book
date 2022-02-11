@@ -5,7 +5,7 @@ title: IG Book
 
 # Book Examples of IG Script-encoded Institutional Statements
 
-This page lists IG Script-encoded institutional statements examples introduced in Chapter 7 and 8 of the IG Book. Where currently supported, the examples are augmented with links to the prepopulated version of that statement in the IG Parser. The IG Parser is a currently developed implementation to showcase the computational processing of the encoded information, with specific focus on the transformation of encoded statements into tabular output format for further analytical treatment. Additional features under active development include the calculation of analytical metrics for complex institutional statements (as discussed in Chapter 8 of the book), as well as the visual representation of institutional statements. 
+This page lists IG Script-encoded institutional statements examples introduced in Chapters [7](./book-examples#ed1ch7) and [8](./book-examples#ed1ch8) of the IG Book. Where currently supported, the examples are augmented with links to the prepopulated version of that statement in the IG Parser. The IG Parser is a currently developed implementation to showcase the computational processing of the encoded information, with specific focus on the transformation of encoded statements into tabular output format for further analytical treatment. Additional features under active development include the calculation of analytical metrics for complex institutional statements (as discussed in Chapter 8 of the book), as well as the visual representation of institutional statements. 
 
 For an accessible introduction to IG Script, beyond the intuitive introduction provided in Chapter 7, please refer to the [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937). 
 
@@ -13,6 +13,7 @@ Please note that clicking on the link listed under each statement example of int
 
 <br/> 
 
+<a name="ed1ch7"></a>
 ## Chapter 7 Examples
 
 <a name="ed1ch7ex1"></a>
@@ -272,6 +273,7 @@ Please note that clicking on the link listed under each statement example of int
 
 <br/> 
 
+<a name="ed1ch8"></a>
 ## Chapter 8 Examples
 
 <a name="ed1ch8ex1"></a>
