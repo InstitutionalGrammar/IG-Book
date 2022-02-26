@@ -15,7 +15,7 @@ Conceptual and theoretical guidance is offered by the original Public Administra
 
 Article: *Frantz, C. K. and Siddiki, S. (2021): Institutional Grammar 2.0: A Specification for Encoding and Analyzing Institutional Design. Public Administration, 99: 222–247. DOI: <a href="https://doi.org/10.1111/padm.12719" target="_blank">10.1111/padm.12719</a>*
 
-Book: *Frantz, C. K. and Siddiki, S. (2022): <a href="https://link.springer.com/book/9783030863715" target="_blank">Institutional Grammar — Foundations and Applications for Institutional Analysis</a>, Palgrave Macmillan.*
+Book: *Frantz, C. K. and Siddiki, S. (2022): Institutional Grammar — Foundations and Applications for Institutional Analysis, Palgrave Macmillan. DOI: <a href="https://doi.org/10.1007/978-3-030-86372-2" target="_blank">10.1007/978-3-030-86372-2</a>*
 
 Syntax and Semantics of the Institutional Grammar 2.0: <a href="https://github.com/InstitutionalGrammar/IG-2.0-Resources" target="_blank">https://github.com/InstitutionalGrammar/IG-2.0-Resources</a>
 
