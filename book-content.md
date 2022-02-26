@@ -5,7 +5,9 @@ title: IG Book
 
 ## Book Content
 
-The book contains nine chapters that cover general background on institutional analysis, an introduction into the original Institutional Grammar by Crawford and Ostrom, followed by a motivation and introduction of the refined Institutional Grammar 2.0, before providing introductory guidance on encoding institutional statements and providing an outlook on analytical opportunities associated with the Institutional Grammar. The book ends with a discussion of opportunities for institutional analysis more generally, the contextualization with the Ostrom's IAD Framework, and reiterates the IG as an analytical paradigm. 
+The book <a href="https://doi.org/10.1007/978-3-030-86372-2">Institutional Grammar -- Foundations and Applications for Institutional Analysis</a> contains nine chapters that cover general background on institutional analysis, an introduction into the original Institutional Grammar by Crawford and Ostrom, followed by a motivation and introduction of the refined Institutional Grammar 2.0, before providing introductory guidance on encoding institutional statements and providing an outlook on analytical opportunities associated with the Institutional Grammar. The book ends with a discussion of opportunities for institutional analysis more generally, the contextualization with the Ostrom's IAD Framework, and reiterates the IG as an analytical paradigm. 
+
+In addition to the overview of the individual chapters, this page further contains specific resources referenced from the book. This includes an overview of [selected figures](book-figures.md) that are reproduced here for better readability (due to layout constraints in the book), as well as an overview of all [institutional statement examples](book-examples.md) encoded in the IG Script syntax introduced in Chapter 7, and applied throughout Chapters 7 and 8.
 
 A concise overview over the individual chapters is provided below:
 
@@ -37,9 +39,13 @@ Chapter 6 introduces the final and highest level of expressiveness, IG Logico. S
 
 Chapter 7 provides a general introduction into the encoding of institutional statements by first outlining general methodological guidelines and considerations relevant as part of the research design process, before giving operational guidance on the encoding of institutional information based on a novel notation, IG Script, that captures all features introduced as part of IG 2.0. The concrete coding of sampled statements is highlighted and discussed. The chapter concludes with a general discussion of operational challenges related to reliability testing. 
 
+All IG Script-encoded examples from Chapter 7 can be found <a href="https://newinstitutionalgrammar.org/book-examples#ed1ch7">here</a>.
+
 ### Chapter 8 - Institutional Analysis and Applications
 
 The penultimate chapter provides a repository of analytical opportunities, combining both established approaches of descriptive analysis as applied in the context of the original Institutional Grammar, as well as novel research directions enabled by the refinements introduced throughout the book. The chapter stratifies those into analyses operating on statement and systemic level on the one hand, and static vs. dynamic approaches to institutional analysis on the other. To support quantitative analysis, the chapter proposes a set of metrics related to the complexity of institutional information, exemplifies the establishment of epistemological linkages with encoded institutional statements, and showcases the potential of reconstructing fine-grained encoded institutional information to extrapolate institutional information from multi-actor perspectives. The chapter concludes with a summary of the general kinds of analyses performed based on different levels of encoding and points to further analytical directions enabled by IG 2.0.
+
+All IG Script-encoded examples from Chapter 8 can be found <a href="https://newinstitutionalgrammar.org/book-examples#ed1ch8">here</a>.
 
 ### Chapter 9 - Contextualization and Future Development of the Institutional Grammar
 
