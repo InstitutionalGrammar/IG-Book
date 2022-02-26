@@ -5,10 +5,10 @@ title: IG Book
 
 ## Book Content
 
-The book <a href="https://doi.org/10.1007/978-3-030-86372-2">Institutional Grammar -- Foundations and Applications for Institutional Analysis</a> contains nine chapters that cover general background on institutional analysis, an introduction into the original Institutional Grammar by Crawford and Ostrom, followed by a motivation and introduction of the refined Institutional Grammar 2.0, before providing introductory guidance on encoding institutional statements and providing an outlook on analytical opportunities associated with the Institutional Grammar. The book ends with a discussion of opportunities for institutional analysis more generally, the contextualization with the Ostrom's IAD Framework, and reiterates the IG as an analytical paradigm. 
+The book <a href="https://doi.org/10.1007/978-3-030-86372-2">Institutional Grammar -- Foundations and Applications for Institutional Analysis</a> contains nine chapters that cover general background on institutional analysis, an introduction into the original Institutional Grammar by Crawford and Ostrom, followed by a motivation and introduction of the refined Institutional Grammar 2.0, before providing introductory guidance on encoding institutional statements and providing an outlook on analytical opportunities associated with the Institutional Grammar. The book ends with a discussion of opportunities for institutional analysis more generally, the contextualization with the Ostrom's IAD Framework, and conceptualizes the IG as an analytical paradigm. 
 
 <a href="https://doi.org/10.1007/978-3-030-86372-2">
-<img src="/figures/978-3-030-86372-2.jpg">
+<img src="/figures/978-3-030-86372-2.jpg" width="70%">
 </a>
 
 In addition to the overview of the individual chapters, this page further contains specific resources referenced from the book. This includes an overview of [selected figures](book-figures.md) that are reproduced here for better readability (due to layout constraints in the book), as well as an overview of all [institutional statement examples](book-examples.md) encoded in the IG Script syntax introduced in Chapter 7, and applied throughout Chapters 7 and 8.
