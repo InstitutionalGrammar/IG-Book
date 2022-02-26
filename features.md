@@ -3,6 +3,8 @@ layout: default
 title: IG Book
 ---
 
+## Institutional Grammar 2.0 Principles & Features
+
 This page contains an overview of the central features of the Institutional Grammar 2.0 (IG 2.0) in a condensed form for quick reference. This includes the basic principles and motivations, as well as an overview of the different levels of expressiveness, followed by the discussion of specific features organized by level of expressiveness. 
 
 Please click on the item of interest to expand the associated details.
@@ -46,7 +48,7 @@ The IG has found application in diverse domains. The refined IG aims at better a
   
 <br/>
 
-## IG Features
+## IG 2.0 Features
 
 <br/>
 
