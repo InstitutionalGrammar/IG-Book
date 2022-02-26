@@ -3,9 +3,15 @@ layout: default
 title: IG Book
 ---
 
+This page contains an overview of the central features of the Institutional Grammar 2.0 (IG 2.0) in a condensed form for quick reference. This includes the basic principles and motivations, as well as an overview of the different levels of expressiveness, followed by the discussion of specific features organized by level of expressiveness. 
+
+Please click on the item of interest to expand the associated details.
+
 ## Principles
 
 <br/>
+
+The basic principles that motivate the introduction of the IG 2.0 are listed and explained in this section.
 
 <details>
   <summary>Ontological consistency</summary><br/>
@@ -71,6 +77,8 @@ However, analysts are free to selectively draw on features from specific or acro
 
 <br/>
 
+The central features introduced under IG Core include:
+
 <details>
 <summary>Regulative and Constitutive Statements</summary><br/>
 
@@ -112,6 +120,8 @@ Note that this particular example reveals the ambiguous use of `or` in natural l
 
 <br/>
 
+The central features introduced under IG Extended include:
+
 <details>
 <summary>Component-level Nesting</summary><br/>
 
@@ -150,6 +160,8 @@ The *Context Taxonomy* builds on Crawford and Ostrom's original conceptual chara
 ### IG Logico
 
 <br/>
+
+The central features introduced under IG Logico include:
 
 <details>
 <summary>Semantic Annotations</summary><br/>
