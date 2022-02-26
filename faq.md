@@ -7,7 +7,7 @@ title: IG Book
 
 This page contains explanations to general questions researchers or practitioners might have when they encounter the Institutional Grammar in the first place, but further extend to questions related to the distinctions between the Crawford and Ostrom's Institutional Grammar, and the IG 2.0. This list is incrementally expanded based on received and observed questions or comments.
 
-Please click on the question to expand the corresponding information.
+Please click on the question of interest to expand the associated response.
 
 <details>
   <summary>Why do we need an Institutional Grammar? Would linguistic analysis not simply be sufficient?</summary><br/>
