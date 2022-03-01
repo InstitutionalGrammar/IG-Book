@@ -42,7 +42,7 @@ Computational tractability interacts with the objective of ontological consisten
 <details>
   <summary>Customizability</summary><br/>
   
-The IG has found application in diverse domains. The refined IG aims at better accommodating diverse applications of the IG by allowing the analyst to selective apply or forego features of the IG as part of the parsing process. The aim is to extract information that best corresponds to downstream use using particular analytical techniques (e.g., statistical treatment, behavioral modeling, formal reasoning).
+The IG has found application in diverse domains. The refined IG aims at better accommodating diverse applications of the IG by allowing the analyst to selectively apply or forego features of the IG as part of the parsing process. The aim is to extract information that best corresponds to downstream use using particular analytical techniques (e.g., statistical treatment, behavioral modeling, formal reasoning).
 
 </details>
   
@@ -63,9 +63,9 @@ Levels of expressiveness reflect the different levels of detail and focus at whi
   
 *IG Extended* aims at capturing *structural detail* by allowing fine-grained parsing on component level (i.e., parsing of institutional information within individual components), as well as extraction of richer conceptual structures embedded in institutional statements (e.g., conceptual relationships between entities in component property). This further includes the richer contextualization of selected components based on annotations of *Context*.<br/>
   
-*IG Logico*, as the highest level of expressiveness, focuses on the semantic aspects of the institutional information, and specifically the epistemological embedding of the statement parsing in the theory and/or frameworks of interest. This includes the augmentation of encoded information with semantic annotations derived or linked to particular theories, or drawn from selected taxonomies maintained as part of the IG 2.0 (e.g., role annotations, governance functions of actors/actions). IG Logico further introduces a formal syntactic and semantic treatment of institutional statements, including the ability to transform institutional statements based on their structural properties.<br/>
+*IG Logico*, as the highest level of expressiveness, focuses on the *semantic aspects* of the institutional information, and specifically the epistemological embedding of the statement parsing in the theory and/or frameworks of interest. This includes the augmentation of encoded information with semantic annotations derived or linked to particular theories, or drawn from selected taxonomies maintained as part of the IG 2.0 (e.g., role annotations, governance functions of actors/actions). IG Logico further introduces a formal syntactic and semantic treatment of institutional statements, including the ability to transform institutional statements based on their structural properties.<br/>
 
-In IG 2.0, the default assumption is the incremental application of the different levels and their features (ensuring that features on higher levels can draw on features encoded on lower levels) as visualized in the following.
+In IG 2.0, a central assumption is the incremental encoding of institutional information at the different levels and their features (ensuring that features on higher levels can draw on features encoded on lower levels) as visualized in the following.
   
 <center><img src="/figures/IGBibCodingAnalysis.png" width="45%"></center>
   
@@ -86,13 +86,13 @@ The central features introduced under IG Core include:
 
 The IG supports the notion of regulative and constitutive statements. 
   
-Regulative statements include expressions that regulative of particular actors' behavior in terms of permissions (e.g., `may`) or associated duty (e.g., obligations or prohibitions), and in the IG, follow a principle structure that includes *Attributes*, *Deontic*, *Aim*, *Object* variants (direct and indirect object), and *Context* variants (activation conditions and execution constraints). Regulative statements can further describe consequences for the non-fulfillment of specified statements. 
+*Regulative statements* include expressions that regulative of particular actors' behavior in terms of permissions (e.g., `may`) or associated duty (e.g., obligations or prohibitions), and in the IG, follow a principle structure that includes *Attributes*, *Deontic*, *Aim*, *Object* variants (direct and indirect object), and *Context* variants (activation conditions and execution constraints). Regulative statements can further describe consequences for the non-fulfillment of specified statements. 
  
 Example: ```A(Citizens) D(must) I(submit) Bdir(tax returns) Bind(at the end of the following financial year).```
   
 This statement explicitly signal obligations associated with a particular actor. 
   
-Constitutive statements describe features of an institutional setting, e.g., by defining or introducing entities into the institutional setting, which can include actors, aims, venues, roles, objects and artifacts relevant in a given institutional setting. Central components include the *Constituted Entity*, *Modal*, *Constitutive Function*, *Constituting Properties*, *Context* variants (activation conditions and execution constraints). Constitutive statements can further describe consequences for the non-fulfillment of such statements. In contrast to regulative statements, such consequences are often existential in kind.
+*Constitutive statements* describe features of an institutional setting, e.g., by defining or introducing entities into the institutional setting, which can include actors, aims, venues, roles, objects and artifacts relevant in a given institutional setting. Central components include the *Constituted Entity*, *Modal*, *Constitutive Function*, *Constituting Properties*, *Context* variants (activation conditions and execution constraints). Constitutive statements can further describe consequences for the non-fulfillment of such statements. In contrast to regulative statements, such consequences are often existential in kind.
   
 Example: ```E(Voters) F(are) P(citizens) P,p(aged 18 and older).```
   
@@ -108,7 +108,7 @@ Central to the IG 2.0 is the introduction of nested institutional statements. Th
   
 Example: ```A(Individuals) D(must [NOT]) I(violate) Bdir(public order), or else O{A(enforcement officials) D(must) I(intervene)}.```
   
-The second observation refers to the common combination of terms in natural language, such as the combination of selected components (e.g., multiple actors and actions, such as ``Individuals may not enter or leave dwellings during curfew.``) in a single statement. Such statements can conceptually decomposed into logically-combined *atomic institutional statements* to capture the institutional content in detail and semantically precise. This form of nesting is referred to as *horizontal nesting*, since the evaluation of one statement (unlike in the vertical case) is in principle not conditional on the other.
+The second observation refers to the common combination of terms in natural language, such as the combination of selected components (e.g., multiple actors and actions, such as ``Individuals may not enter or leave dwellings during curfew.``) in a single statement. Such statements can be conceptually decomposed into logically-combined *atomic institutional statements* to capture the institutional content in detail and with semantic precision. This form of nesting is referred to as *horizontal nesting*, since the evaluation of one statement (unlike in the vertical case) is in principle not conditional on the other.
   
 Example: ```A(Individuals) D(may [NOT]) I((enter [AND] leave)) Bdir(dwellings) Cac(during curfew).```, which is conceptually equivalent to 
   
@@ -127,7 +127,7 @@ The central features introduced under IG Extended include:
 <details>
 <summary>Component-level Nesting</summary><br/>
 
-Component-level nesting extends the concept of statement-level nesting by allowing the substitution of individual components with institutional state(ments). This way it is possible to explicitly parse the structure of activation conditions, which often contain institutional state information expressed in terms of the AIC or EFC pattern. This principles extends to various other components, including *Attributes*, *Object* variants, *Context* variants, *Constituted Entities*, *Constituting Properties*, as well as all *Properties* associated with selected components (e.g., *Attributes Properties*).
+Component-level nesting extends the concept of statement-level nesting by allowing the substitution of individual components with institutional state(ments). This way it is possible to explicitly parse the structure of activation conditions, which often contain institutional state information expressed in terms of the AIC or EFC pattern. This principle extends to various other components, including *Attributes*, *Object* variants, *Context* variants, *Constituted Entities*, *Constituting Properties*, as well as all *Properties* associated with selected components (e.g., *Attributes Properties*).
 
 Example: ```A(Student) D(must) I(submit) Bdir(assignment) Cex(by the end of the term), Cac{unless [NOT] A(coordinator) I(has specified) a Bdir,p(different) Bdir(due date) Cex(in the course description)}.```
   
@@ -147,7 +147,7 @@ A central feature to capture concept structures embedded within institutional st
 <details>
 <summary>Property Typology</summary><br/>
 
-The *Property Typology* offers a systematic qualification of properties as either quantitative or qualitative in nature (alongside further sub categories) in order to differentiate descriptors that are central for the evaluation of the fulfillment of a provision (e.g., ```*all* *accredited* members shall vote```, where *all* is a descriptor of quantitative kind, whereas *accredited* merely captures the quality associated with the concept *members*). The principles and the motivation of this feature are further discussed in Section 5.1.5 of the book.
+The *Property Typology* offers a systematic qualification of properties as either *quantitative* or *qualitative* in nature (alongside further sub categories) in order to differentiate descriptors that are central for the evaluation of the fulfillment of a provision (e.g., ```*all* *accredited* members shall vote```, where *all* is a descriptor of quantitative kind, whereas *accredited* merely captures the quality associated with the concept *members*). The principles and the motivation of this feature are further discussed in Section 5.1.5 of the book.
   
 </details>
 <br/> 
@@ -168,7 +168,7 @@ The central features introduced under IG Logico include:
 <details>
 <summary>Semantic Annotations</summary><br/>
 
-IG Logico aims at developing an epistemological linkage between the domain of interest and the encoded institutional information. Central here is the ability to annotate encoded information using semantic annotations that capture the functional role (*Institutional Functions*) or signal that the component values convey with respect to the domain or through the applied analytical lens. Referencing an example of such institutional function, analyzing an institutional setting with respect to compliance behavior `not submitting the tax return on time` reflects a violation (whereas `submission on time` reflects the institutional function of signaling compliance). IG 2.0 provides a set of predefined taxonomies prepared for the annotations of selected components (e.g., roles, metatypes of referenced concepts, as well as institutional functions in the context of compliance assessment), but further allows for the introduction of classifications drawn from the domain of the analyst. More details can found in Section 6.1.2 onwards in the book, as well as the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a>.
+IG Logico aims at developing an epistemological linkage between the domain of interest and the encoded institutional information. Central here is the ability to annotate encoded information using semantic annotations that capture functional role (*Institutional Functions*) or signal that the component values convey with respect to the domain or through the applied analytical lens. Referencing an example of such institutional function, analyzing an institutional setting with respect to compliance behavior `not submitting the tax return on time` reflects a violation (whereas `submission on time` reflects the institutional function of signaling compliance). IG 2.0 provides a set of predefined taxonomies prepared for the annotations of selected components (e.g., roles, metatypes of referenced concepts, as well as institutional functions in the context of compliance assessment), but further allows for the introduction of classifications drawn from the domain of the analyst. More details can found in Section 6.1.2 onwards in the book, as well as the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a>.
   
 </details>
 <br/> 
@@ -176,7 +176,7 @@ IG Logico aims at developing an epistemological linkage between the domain of in
 <details>
 <summary>Statement Transformations</summary><br/>
 
-With the encoding on higher levels of expressiveness (IG Extended or Logico), institutional statements can be transformed algorithmically, e.g., to reflect policy from specific actors' perspectives, establish a uniform structural representation to facilitate downstream analysis or comparative studies, or extrapolation multiple involved actors' perspectives tacitly captured in institutional statements for richer behavioral models or assessment of biases captured in policy. See Section 6.1.4 of the book for details on transformation rules and Section 8.3 for illustrative applications. 
+With the encoding at higher levels of expressiveness (IG Extended or Logico), institutional statements can in principle be transformed algorithmically, e.g., to reflect policy from specific actors' perspectives, establish a uniform structural representation to facilitate downstream analysis or comparative studies, or extrapolation of multiple involved actors' perspectives tacitly captured in institutional statements for richer behavioral models or assessment of biases captured in policy. See Section 6.1.4 of the book for details on transformation rules and Section 8.3 for illustrative applications. 
   
 </details>
 <br/> 
