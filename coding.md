@@ -5,7 +5,7 @@ title: IG Book
 
 ## Coder's Corner
 
-This page specifically targets common challenges encountered when encoding institutional statements. While any coder is encouraged to review the IG 2.0 Codebook for reference (in which those aspects are covered), an overview of common questions alongside a practice-oriented explanation is provided here. We intend to update this overview based on typical challenges observed or reported during the encoding of institutional statements.
+This page specifically targets common challenges encountered when encoding institutional statements. While any coder is encouraged to review the <a href="https://arxiv.org/abs/2008.08937" target="_blank">IG 2.0 Codebook</a> for reference (in which those aspects are covered), an overview of common questions alongside a practice-oriented explanation is provided here. We intend to update this overview based on typical challenges observed or reported during the encoding of institutional statements.
 
 Please click on the individual questions to expand their content.
 
