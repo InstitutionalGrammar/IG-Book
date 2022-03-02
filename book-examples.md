@@ -11,7 +11,7 @@ For an accessible introduction to IG Script, beyond the intuitive introduction p
 
 Please note that clicking on the link listed under each statement example of interest in the book should navigate directly to the corresponding statement on this page.
 
-<br/> 
+<br/>
 
 <a name="ed1ch7"></a>
 ## Chapter 7 Examples
@@ -212,7 +212,6 @@ Please note that clicking on the link listed under each statement example of int
 ```E(Audits) F(are) P,p(financial) P(inspections) P,p(conducted by a certified authority licensed according to this Act).```
 
 [Open in IG Parser](http://128.39.143.144:4040/?rawStmt=Audits%20are%20financial%20inspections%20conducted%20by%20a%20certified%20authority%20licensed%20according%20to%20this%20Act.&codedStmt=E(Audits)%20F(are)%20P,p(financial)%20P(inspections)%20P,p(conducted%20by%20a%20certified%20authority%20licensed%20according%20to%20this%20Act).&stmtId=1)
-
 <a name="ed1ch7ex30"></a>
 ### Chapter 7 Example 30
 
@@ -221,6 +220,7 @@ Please note that clicking on the link listed under each statement example of int
 
 <!-- only focusing on second statement, i.e., omitted The E(item in question) M(must) F(have) the P,p(following) P(characteristics). -->
 [Open in IG Parser](http://128.39.143.144:4040/visual/?rawStmt=The%20item%20in%20question%20must%20have%20the%20following%20characteristics:%20be%20duly%20passed%20by%20the%20Board%20of%20Directors,%20establish%20rule%20or%20convention%20of%20general%20application,%20and%20must%20be%20mission-consistent.&codedStmt=E([Characteristics])%20F([are]):%20%7BP%7BA(Board%20of%20Directors)%20D(must)%20Cex(duly)%20I(be%20passed%20[pass])%20Bdir([item%20in%20question])%7D%20[AND]%20P%7BA([Board%20of%20Directors])%20I(establish)%20Bdir((rule%20[OR]%20convention))%20Bdir,p(of%20general%20application)%20Bind([of%20item%20in%20question])%7D%20[AND]%20P%7BE([the%20item%20in%20question])%20M(must)%20F(be)%20P(mission-consistent)%7D.%7D&stmtId=1)
+
 <a name="ed1ch7ex31"></a>
 ### Chapter 7 Example 31
 
