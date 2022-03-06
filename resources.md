@@ -25,7 +25,7 @@ Operational guidance for the encoding of institutional information is provided i
 
 [IG 2.0 Cheat Sheet](https://newinstitutionalgrammar.org/resources/IG%202.0%20Quick%20Reference.pdf)
 
-Codebook: Frantz, C. K. and Siddiki, S. N.: Institutional Grammar 2.0 Codebook, [https://arxiv.org/abs/2008.08937](https://arxiv.org/abs/2008.08937)
+[Institutional Grammar 2.0 Codebook (Available under: https://arxiv.org/abs/2008.08937)](https://arxiv.org/abs/2008.08937)
 
 ### Upcoming resources
 
