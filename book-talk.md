@@ -13,7 +13,7 @@ The book talk series will run from 8th September to 10th November 2022. Meetings
 
 ## Registration
 
-To register for one or more book talk series sessions, please click on this link: <a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1M5FFj6alBgBlH0">Book Talk Series Registration</a>
+To register for one or more book talk series sessions, please click on this link: <a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1M5FFj6alBgBlH0">Book Talk Series Registration</a>. Note that late participation (i.e., after the series has started) is no problem. In this case, please register using the same form.
 
 ##
 
