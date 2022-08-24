@@ -24,16 +24,17 @@ Book website: https://newinstitutionalgrammar.org/
 
 ## Schedule 
 
-|Week |	Topic |
-|8 September 2022 | Chapters 1 & 2: Introduction & Review of Institutional Grammar Research: 
+| Week | Topic |
+| ----- | ----- |
+| 8 September 2022 | Chapters 1 & 2: Introduction & Review of Institutional Grammar Research: 
 Overview, Opportunities, Challenges |
-|22 September 2022 | Chapter 3: Motivations for a New Institutional Grammar |
-|29 September 2022 | Chapter 4: IG 2.0: Conceptual Foundations and General Syntax |
-|6 October 2022 | Chapter 5: IG 2.0: Deep Structural Parsing and Hybrid Institutional Statements |
-|13 October 2022 | Chapter 6: IG 2.0: Semantic Features and Analytical Linkages |
-|27 October 2022 | Chapter 7: Methodological Guidance for Encoding Institutional Information |
-|3 November 2022 | Chapter 8: Institutional Analysis and Applications |
-|10 November 2022 | Chapter 9: Contextualization and Future Development of the Institutional Grammar |
+| 22 September 2022 | Chapter 3: Motivations for a New Institutional Grammar |
+| 29 September 2022 | Chapter 4: IG 2.0: Conceptual Foundations and General Syntax |
+| 6 October 2022 | Chapter 5: IG 2.0: Deep Structural Parsing and Hybrid Institutional Statements |
+| 13 October 2022 | Chapter 6: IG 2.0: Semantic Features and Analytical Linkages |
+| 27 October 2022 | Chapter 7: Methodological Guidance for Encoding Institutional Information |
+| 3 November 2022 | Chapter 8: Institutional Analysis and Applications |
+| 10 November 2022 | Chapter 9: Contextualization and Future Development of the Institutional Grammar |
 
 ## Contacts
 
