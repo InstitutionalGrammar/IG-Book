@@ -13,13 +13,13 @@ The book talk series will run from 8th September to 10th November 2022. Meetings
 
 ## Registration
 
-To register for one or more book talk series sessions, please click on this link: <a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1M5FFj6alBgBlH0">Book Talk Series Registration</a>. Note that late participation (i.e., after the series has started) is no problem. In this case, please register using the same form.
+To register for one or more book talk series sessions, please click on this link: <a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1M5FFj6alBgBlH0">Book Talk Series Registration</a>. Note that late participation/registration (i.e., after the series has started) is explicitly encouraged. Please register using the same form.
 
 ##
 
-For general information about the book, you can visit the publisher's website. For more detailed information, associated concepts, and supplementary material, you can consult the book website (this website). 
+For general information about the book, you can visit the publisher's website. For more detailed information, associated concepts, and supplementary material, please can consult the book website (this website). 
 
-Publisher's book website: https://link.springer.com/book/10.1007/978-3-030-86372-2 
+Publisher's book website: https://link.springer.com/book/10.1007/978-3-030-86372-2 (Note: Check whether your university or research institutes has a library subscription that may make the book available to you at no cost.)
 
 Book website: https://newinstitutionalgrammar.org/ 
 
