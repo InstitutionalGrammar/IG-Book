@@ -19,7 +19,7 @@ To register for one or more book talk series sessions, please click on this link
 
 For general information about the book, you can visit the publisher's website. For more detailed information, associated concepts, and supplementary material, please can consult the book website (this website). 
 
-Publisher's book website: https://link.springer.com/book/10.1007/978-3-030-86372-2 (Note: Check whether your university or research institutes has a library subscription that may make the book available to you at no cost.)
+Publisher's book website: https://link.springer.com/book/10.1007/978-3-030-86372-2 (Note: Check whether your university or research institute's has a library subscription that may make the book available to you at no cost.)
 
 Book website: https://newinstitutionalgrammar.org/ 
 
