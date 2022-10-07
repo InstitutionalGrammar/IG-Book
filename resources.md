@@ -27,7 +27,9 @@ Operational guidance for the encoding of institutional information is provided i
 
 [Institutional Grammar 2.0 Codebook (Available under: https://arxiv.org/abs/2008.08937)](https://arxiv.org/abs/2008.08937)
 
-### Upcoming resources
+### Additional Resources (Software, Videos, etc.)
 
-We are further in the process of developing introductory video resources as well as software tools to support the encoding and analysis of institutional statements.
+[IG Parser](ig-parser.md) -- The IG Parser is a software tool to support the encoding of institutional statements, in order to provide different outputs (currently a tabular output and visual output, similar to the visualizations in the book) for further processing.
+
+We are further in the process of developing introductory video resources as well as additional software tools to support the encoding and analysis of institutional statements, which will be listed here once they become available.
 
