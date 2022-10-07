@@ -29,7 +29,7 @@ Operational guidance for the encoding of institutional information is provided i
 
 ### Additional Resources (Software, Videos, etc.)
 
-[IG Parser](ig-parser.md) -- The IG Parser is a software tool to support the encoding of institutional statements, in order to provide different outputs for further processing. This currently includes 
+[IG Parser](ig-parser.md) -- The IG Parser is a software tool to support the encoding of institutional statements, in order to provide different types of output for further processing. These currently include 
  * tabular output that can be processed in Excel, Google Sheets, etc.
  * visual output that offers an interactive visualization of coded statements as a tree structure, following the style used in the book.
 
