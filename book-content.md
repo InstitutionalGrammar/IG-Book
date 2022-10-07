@@ -11,7 +11,7 @@ The book <a href="https://doi.org/10.1007/978-3-030-86372-2">Institutional Gramm
 <img src="/figures/978-3-030-86372-2.jpg" width="25%">
 </a>
 
-In addition to the overview of the individual chapters, this page further contains specific resources referenced from the book. This includes an overview of [selected figures](book-figures.md) that are reproduced here for better readability (due to layout constraints in the book), as well as an overview of all [institutional statement examples](book-examples.md) encoded in the IG Script syntax introduced in Chapter 7, and applied throughout Chapters 7 and 8.
+In addition to the overview of the individual chapters, this page further contains specific resources referenced from the book. This includes an overview of [selected figures](book-figures.md) that are reproduced here for better readability (due to layout constraints in the book), as well as an overview of all [institutional statement examples](book-examples.md) encoded in the IG Script syntax introduced in Chapter 7, and applied throughout Chapters 7 and 8. Finally, a list of errata of the current edition can be found under [Errata](errata.md).
 
 A concise overview of the individual chapters is provided below:
 
