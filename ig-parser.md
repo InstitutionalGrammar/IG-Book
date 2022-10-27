@@ -12,6 +12,6 @@ The current version of IG Parser is available in two versions that both take IG 
 When opening the parser, you will see input fields, the first of which merely takes any original (i.e., unparsed) statement as reference, and a second field that asks for the "Encoded Statement". This field requires IG Script input. In addition, you can parameterize the output to consider relevant features (e.g., IG Extended output - to take fine-grained nesting into account; Semantic annotations to include IG Logico annotations in the output).
 
 
-* [Click here to open to tabular version](http://128.39.143.144:4040/)
+* [Click here to open the tabular version (e.g., CSV, Excel output)](http://128.39.143.144:4040/)
 
-* [Click here to open to visual version](http://128.39.143.144:4040/visual/)
+* [Click here to open the visual version (tree output format)](http://128.39.143.144:4040/visual/)
