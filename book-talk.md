@@ -5,15 +5,17 @@ title: IG Book
 
 # Book Talk Series
  
-We will hold a book talk series on the recently published IG book (more explicitly: *Institutional Grammar: Foundations and Applications for Institutional Analysis*). The purpose of this series is to provide a forum to engage on the content of the book, both to seek clarity or discuss aspects of the book as well as to solicit feedback from academics and practitioners engaging or interested in institutional analysis.  
+We recently held a book talk series on the recently published IG book (more explicitly: *Institutional Grammar: Foundations and Applications for Institutional Analysis*). The purpose of this series was to provide a forum to engage on the content of the book, both to seek clarity or discuss aspects of the book as well as to solicit feedback from academics and practitioners engaging or interested in institutional analysis. 
 
 ## Dates
 
-The book talk series will run from 8th September to 10th November 2022. Meetings (schedule below) will be held from 10:00 to 11:30 EST by Zoom. Across meeting sessions, we will iterate through the book on a per-chapter basis. To foster lively and engaging discussions, we encourage participants to read the chapter(s) corresponding to different meeting dates in advance. 
+The book talk series ran from 8th September to 10th November 2022. Meetings (schedule below) were held from 10:00 to 11:30 EST by Zoom. Across meeting sessions, we iterated through the book on a per-chapter basis. To foster lively and engaging discussions, we encouraged participants to read the chapter(s) corresponding to different meeting dates in advance. 
 
 ## Registration
 
-To register for one or more book talk series sessions, please click on this link: <a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1M5FFj6alBgBlH0">Book Talk Series Registration</a>. Note that late participation/registration (i.e., after the series has started) is explicitly encouraged. Please register using the same form.
+Registration is no longer possible.
+
+<!--To register for one or more book talk series sessions, please click on this link: <a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1M5FFj6alBgBlH0">Book Talk Series Registration</a>. Note that late participation/registration (i.e., after the series has started) is explicitly encouraged. Please register using the same form.-->
 
 ##
 
@@ -23,7 +25,7 @@ Publisher's book website: https://link.springer.com/book/10.1007/978-3-030-86372
 
 Book website: https://newinstitutionalgrammar.org/ 
 
-## Schedule 
+## Schedule (for reference)
 
 | Week | Topic |
 | ----- | ----- |
@@ -38,4 +40,4 @@ Book website: https://newinstitutionalgrammar.org/
 
 ## Contacts
 
-For questions about the book talk series, please contact Christopher Frantz (christopher.frantz@ntnu.no) or Saba Siddiki (ssiddiki@syr.edu).
+For questions about the book talk series or future events, please contact Christopher Frantz (christopher.frantz@ntnu.no) or Saba Siddiki (ssiddiki@syr.edu).
