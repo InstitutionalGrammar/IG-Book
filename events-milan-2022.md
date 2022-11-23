@@ -12,16 +12,23 @@ The two-day class will cover the intellectual foundations of institutional analy
 
 The Master class syllabus can be found [here](https://newinstitutionalgrammar.org/resources/IG%20Master%20Class%20Milan%20Overview.pdf).
 
+## Resources
+
 General resources relevant for the Master Class (beyond the <a href="{{ site.path }}/resources.html">general resources</a>) are posted below:
 
-* Concepts
+### Concepts
 
-** IG Book: https://link.springer.com/book/10.1007/978-3-030-86372-2 (free for students at Unimi)
+* IG Book: https://link.springer.com/book/10.1007/978-3-030-86372-2 (free for students at Unimi)
 
-* Coding
+### Coding
 
-** IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (free for anyone)
+* IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (free for anyone)
 
-** Coding Spreadsheet (Excel): https://institutionalgrammar.org/wp-content/uploads/2022/11/IG2.0_blank_coding_sheet_v_1.0.xlsx
+* Coding Spreadsheet (Excel): https://institutionalgrammar.org/wp-content/uploads/2022/11/IG2.0_blank_coding_sheet_v_1.0.xlsx
 
-** IG Parser: https://newinstitutionalgrammar.org/ig-parser
+* IG Parser: https://newinstitutionalgrammar.org/ig-parser
+
+### Dataset
+
+* https://docs.google.com/spreadsheets/d/1ILGVGnBviPSD5lWmVKnZIns3aN-0LEw1xhKMXJqSjCM/edit?usp=sharing
+
