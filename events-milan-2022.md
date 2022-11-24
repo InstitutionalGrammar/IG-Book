@@ -20,7 +20,7 @@ General resources relevant for the Master Class (beyond the <a href="{{ site.pat
 
 * IG Book: https://link.springer.com/book/10.1007/978-3-030-86372-2 (free for students at UniMi)
 
-### Coding
+### Coding (Codebook & Tools)
 
 * IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (free for anyone)
 
@@ -30,5 +30,5 @@ General resources relevant for the Master Class (beyond the <a href="{{ site.pat
 
 ### Dataset
 
-* https://docs.google.com/spreadsheets/d/1ILGVGnBviPSD5lWmVKnZIns3aN-0LEw1xhKMXJqSjCM/edit?usp=sharing
+* [EU Climate Act (partial)](https://docs.google.com/spreadsheets/d/1cFNIgemAie4Q9AHpDyBbJjpfgICnPumcTBMDWVy6E8k/edit?usp=sharing)
 
