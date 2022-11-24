@@ -18,7 +18,7 @@ General resources relevant for the Master Class (beyond the <a href="{{ site.pat
 
 ### Concepts
 
-* IG Book: https://link.springer.com/book/10.1007/978-3-030-86372-2 (free for students at Unimi)
+* IG Book: https://link.springer.com/book/10.1007/978-3-030-86372-2 (free for students at UniMi)
 
 ### Coding
 
