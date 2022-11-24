@@ -8,13 +8,13 @@ title: IG Book
 
 The Master Class will take place at the Department of Social and Political Sciences at the Università degli Studi di Milano (UniMi), following a generous invitation by [Alessia Damonte](https://expertise.unimi.it/get/person/alessia-damonte) (a special thank you!). 
 
-The two-day class will cover the intellectual foundations of institutional analysis more generally, and the Institutional Grammar (IG) more specifically. Following the conceptual introduction of the IG, a specific emphasis lies on discussing the operational encoding of institutional statements, as well as the analysis of the collected institutional information.
+The two-day class will cover the intellectual foundations of institutional analysis more generally, and the Institutional Grammar (IG) more specifically. Following the conceptual introduction of the IG and its use in contemporary studies on the first day, on the second day is dedicated to the methodological design of IG studies, as well as discussing the operational encoding of institutional statements. It concludes with an exposition of approaches to analyze the collected institutional information. The Master Class is targeted at graduate students without prior exposure to the IG.
 
-The Master class syllabus can be found [here](https://newinstitutionalgrammar.org/resources/IG%20Master%20Class%20Milan%20Overview.pdf).
+The complete syllabus can be found [here](https://newinstitutionalgrammar.org/resources/IG%20Master%20Class%20Milan%20Overview.pdf).
 
 ## Resources
 
-General resources relevant for the Master Class (beyond the <a href="{{ site.path }}/resources.html">general resources</a>) are posted below:
+Specific resources relevant for the Master Class (alongside the <a href="{{ site.path }}/resources.html">general resources</a>) are posted below:
 
 ### Concepts
 
@@ -22,7 +22,7 @@ General resources relevant for the Master Class (beyond the <a href="{{ site.pat
 
 ### Coding (Codebook & Tools)
 
-* IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (free for anyone)
+* IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (freely accessible)
 
 * Coding Spreadsheet (Excel): https://institutionalgrammar.org/wp-content/uploads/2022/11/IG2.0_blank_coding_sheet_v_1.0.xlsx
 
