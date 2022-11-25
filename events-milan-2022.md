@@ -32,3 +32,13 @@ Specific resources relevant for the Master Class (alongside the <a href="{{ site
 
 * [EU Climate Act (partial)](https://docs.google.com/spreadsheets/d/1cFNIgemAie4Q9AHpDyBbJjpfgICnPumcTBMDWVy6E8k/edit?usp=sharing)
 
+
+### Statements
+
+* The Program Manager shall send a written notification of proposed suspension or revocation of certification to certified organic farmer.
+
+* The expenses of each member of the Commission and of his experts and advisers shall be determined and paid by his own Government.
+
+* Such notification shall provide: (1) A description of each noncompliance; (2) The facts upon which the notification of noncompliance is based; and (3) The date by which the certified operation must rebut or correct each noncompliance and submit supporting documentation of each such correction when correction is possible.
+
+* Upon entrance into agreement with organic farmer to serve as his/her certifying agent, organic certifier must inspect farmer's operation within 60 days
