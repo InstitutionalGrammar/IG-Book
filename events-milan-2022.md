@@ -6,9 +6,9 @@ title: IG Book
 
 # Master Class at the University of Milan (November 2022)
 
-The Master Class will take place at the Department of Social and Political Sciences at the Università degli Studi di Milano (UniMi), following a generous invitation by [Alessia Damonte](https://expertise.unimi.it/get/person/alessia-damonte) (a special thank you!). 
+The Master Class took place at the Department of Social and Political Sciences at the Università degli Studi di Milano (UniMi), following a generous invitation by [Alessia Damonte](https://expertise.unimi.it/get/person/alessia-damonte) (a special thank you!). 
 
-The two-day class will cover the intellectual foundations of institutional analysis more generally, and the Institutional Grammar (IG) more specifically. Following the conceptual introduction of the IG and its use in contemporary studies on the first day, on the second day is dedicated to the methodological design of IG studies, as well as discussing the operational encoding of institutional statements. It concludes with an exposition of approaches to analyze the collected institutional information. The Master Class is targeted at graduate students without prior exposure to the IG.
+The two-day class covers the intellectual foundations of institutional analysis more generally, and the Institutional Grammar (IG) more specifically. Following the conceptual introduction of the IG and its use in contemporary studies on the first day, on the second day is dedicated to the methodological design of IG studies, as well as discussing the operational encoding of institutional statements. It concludes with an exposition of approaches to analyze the collected institutional information. The Master Class is targeted at graduate students without prior exposure to the IG.
 
 The complete syllabus can be found [here](https://newinstitutionalgrammar.org/resources/IG%20Master%20Class%20Milan%20Overview.pdf).
 
@@ -28,12 +28,7 @@ Specific resources relevant for the Master Class (alongside the <a href="{{ site
 
 * IG Parser: https://newinstitutionalgrammar.org/ig-parser
 
-### Dataset
-
-* [EU Climate Act (partial)](https://docs.google.com/spreadsheets/d/1cFNIgemAie4Q9AHpDyBbJjpfgICnPumcTBMDWVy6E8k/edit?usp=sharing)
-
-
-### Statements
+### Example Statements
 
 * The Program Manager shall send a written notification of proposed suspension or revocation of certification to certified organic farmer.
 
@@ -42,3 +37,8 @@ Specific resources relevant for the Master Class (alongside the <a href="{{ site
 * Such notification shall provide: (1) A description of each noncompliance; (2) The facts upon which the notification of noncompliance is based; and (3) The date by which the certified operation must rebut or correct each noncompliance and submit supporting documentation of each such correction when correction is possible.
 
 * Upon entrance into agreement with organic farmer to serve as his/her certifying agent, organic certifier must inspect farmer's operation within 60 days
+
+
+### Dataset
+
+* [EU Climate Act (partial)](https://docs.google.com/spreadsheets/d/1cFNIgemAie4Q9AHpDyBbJjpfgICnPumcTBMDWVy6E8k/edit?usp=sharing)
