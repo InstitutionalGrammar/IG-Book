@@ -10,7 +10,7 @@ This page lists a selection of events related to the Institutional Grammar 2.0, 
 
 ## November 2022: Master Class (University of Milan)
 
-In November, we are invited to hold a two-day Master Class on the Institutional Grammar at the Department of Political Science at the University of Milan. During the event, we will cover both theoretical and intellectual foundations of the Institutional Grammar, but also discuss the practical engagement in encoding and analyzing institutional information for a variety of analytical applications.
+In November, we were invited to hold a two-day Master Class on the Institutional Grammar at the Department of Political Science at the University of Milan. During the event, we covered both theoretical and intellectual foundations of the Institutional Grammar, but also discussed the practical engagement in encoding and analyzing institutional information for a variety of analytical applications.
 
 More information about this event can be found <a href="{{ site.path }}/events-milan-2022.html">here</a>.
 
