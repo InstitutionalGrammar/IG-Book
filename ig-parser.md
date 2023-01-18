@@ -8,7 +8,7 @@ title: IG Book
 IG Parser is a tool that parses institutional statements in the IG Script notation, which allows for the machine-accessible parsing of institutional information, and it introduced as part of the [IG Book](book-content.md). The specific examples of encoded institutional statements referenced throughout Chapters 7 and 8 in the book can be found under [Book Examples](book-examples.md).
 
 <center><a href="http://128.39.143.144:4040/visual/">
-<img target="_blank" src="/figures/IG-Parser-UI-Visual.jpg" width="75%">
+<img target="_blank" src="/figures/IG-Parser-UI-Visual.jpg" width="90%">
 </a></center>
 
 The current version of IG Parser is available in two versions that both take IG Script as input, but produce different output, selectively focusing on tabular output, as well as a tree output for visual exploration of the parsing outcome based on interactive navigation.
