@@ -34,4 +34,6 @@ Please click on the question of interest to expand the associated response.
 </details>
 <br/>
 
+If you have general questions related to the IG (or ones you would like to see answered in the FAQ), please share those with us under [questions@newinstitutionalgrammar.org](mailto:questions@newinstitutionalgrammar.org). 
+
 
