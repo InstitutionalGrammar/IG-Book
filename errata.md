@@ -7,7 +7,7 @@ title: IG Book
 
 Many books contain minor errors in text and representation, and despite careful review during the publishing process, our's is no exception. 
 
-Please find the list of corrections for specific passages below. We will update this list whenever we observe or are made aware of such. In this light, please do not hesitate to send us your observations, and if these indeed require correction, we will list those (with attribution) below:
+Please find the list of corrections for specific passages below. We will update this list whenever we observe or are made aware of those. In this light, please do not hesitate to send us your observations (mailto:errata@newinstitutionalgrammar.org), and if these indeed require correction, we will list those (with attribution) below:
 
 
 ### Chapter 3, Page 71, Literature Reference
@@ -20,7 +20,7 @@ Thank you to Bartosz Pieliński for sharing this observation!
 
 ### Chapter 5, Page 161, Example Coding
 
-The visual representation of the coded example on Page 161 current lists the *Indirect Object* and *Indirect Object Properties* as follows:
+The visual representation of the coded example on Page 161 currently lists the *Indirect Object* and *Indirect Object Properties* as follows:
 
 `Indirect Object: agent`
 
