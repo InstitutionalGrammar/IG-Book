@@ -10,7 +10,7 @@ This page lists a selection of events related to the Institutional Grammar 2.0, 
 
 ## May 2023: Graduate IG Training (Norwegian University of Science and Technology (NTNU), Gjøvik)
 
-We will hold the second edition of our on-site training on the Institutional Grammar at the Norwegian University of Science and Technology (NTNU), Gjøvik, in conjunction with the annual IGRI Virtual Conference. The format primarily targets advanced graduate students who want to share and seek feedback on their application of the Institutional Grammar as part of their research. .
+We will hold the second edition of our on-site training on the Institutional Grammar at the Norwegian University of Science and Technology (NTNU), Gjøvik, in conjunction with the annual IGRI Virtual Conference. The format primarily targets advanced graduate students who want to share and seek feedback on their application of the Institutional Grammar as part of their research.
 
 More information about this event can be found <a href="https://institutionalgrammar.org/doctoral_workshop/2023-igri-doctoral-workshop/">here</a>.
 ## December 2022: Keynote at Agent-based Modeling for Policy-Making Workshop (AMPM)
