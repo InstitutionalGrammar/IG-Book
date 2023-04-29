@@ -71,5 +71,5 @@ Selected figures in the book appear small in the book due to format constraints.
 
 #### Figure A.1: Institutional Statement Structure in the Institutional Grammar 2.0
 
-<center><img src="/figures/InstitutionalStatementStructure.png" width="100%"></center>
+<center><a href="/figures/InstitutionalStatementStructure.png"><img src="/figures/InstitutionalStatementStructure.png" width="100%"></a></center>
 
