@@ -36,7 +36,7 @@ Specific resources relevant for the Master Class (alongside the <a href="{{ site
 
 * Such notification shall provide: (1) A description of each noncompliance; (2) The facts upon which the notification of noncompliance is based; and (3) The date by which the certified operation must rebut or correct each noncompliance and submit supporting documentation of each such correction when correction is possible.
 
-* Upon entrance into agreement with organic farmer to serve as his/her certifying agent, organic certifier must inspect farmer's operation within 60 days
+* Upon entrance into agreement with organic farmer to serve as his/her certifying agent, organic certifier must inspect farmer's operation within 60 days.
 
 
 ### Dataset
