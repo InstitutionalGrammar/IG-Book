@@ -27,16 +27,25 @@ Specific resources relevant for the training (alongside the <a href="{{ site.pat
 ### Coding (Codebook & Tools)
 
 * IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (freely accessible)
+ * contains principal coding guidance, overview of taxonomies (e.g., context, role, constitutive, etc.), IG customization options, Checklist for project-specific codebook
 
 * Coding Spreadsheet (Excel): https://institutionalgrammar.org/wp-content/uploads/2022/11/IG2.0_blank_coding_sheet_v_1.0.xlsx
+ * Example spreadsheet for manual coding in Excel
 
 * IG Parser: https://newinstitutionalgrammar.org/ig-parser
+ * Supports the generic encoding of institutional statements in IG 2.0, with visual and tabular output formats
 
 ### Example Statements
 
-The following statements will be used during the training (further may be posted during the training).
+Please find statements used for exercises below (further may be posted during the training).
 
-* The Program Manager shall send a written notification of proposed suspension or revocation of certification to certified organic farmer.
+[Regulative Statements](https://drive.google.com/file/d/1iyTim00l2gTw4eaFxpJ2LRWaOgKdv_vw/view?usp=sharing)
+
+
+[Constitutive Statements](https://drive.google.com/file/d/1jJuymZ332I-Z6sPDGKjaZyjDWxKSo5n4/view?usp=sharing)
+
+
+<!--* The Program Manager shall send a written notification of proposed suspension or revocation of certification to certified organic farmer.
 
   * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=The%20Program%20Manager%20shall%20send%20a%20written%20notification%20of%20proposed%20suspension%20or%20revocation%20of%20certification%20to%20certified%20organic%20farmer&codedStmt=The%20A(Program%20Manager)%20D(shall)%20I(send)%20a%20Bdir,p(written)%20Bdir(notification%20of%20proposed%20(suspension%20[XOR]%20revocation)%20of%20certification)%20to%20Bind,p(certified)%20Bind(organic%20farmer).)
 
@@ -55,4 +64,4 @@ The following statements will be used during the training (further may be posted
 
   * [Open in IG Parser (IG Core)](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=Upon%20entrance%20into%20agreement%20with%20organic%20farmer%20to%20serve%20as%20his/her%20certifying%20agent,%20organic%20certifier%20must%20inspect%20farmer%27s%20operation%20within%2060%20days.&codedStmt=Cac(Upon%20entrance%20into%20agreement%20with%20organic%20farmer%20to%20serve%20as%20his/her%20certifying%20agent),%20A(organic%20certifier)%20D(must)%20I(inspect)%20Bdir,p(farmer%27s)%20Bdir(operation)%20Cex(within%2060%20days).)
 
-  * [Open in IG Parser (IG Extended)](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=Upon%20entrance%20into%20agreement%20with%20organic%20farmer%20to%20serve%20as%20his/her%20certifying%20agent,%20organic%20certifier%20must%20inspect%20farmer%27s%20operation%20within%2060%20days.&codedStmt=Cac{Upon%20entrance%20into%20I([enters])%20Bdir(agreement)%20with%20A(organic%20farmer)%20Bdir,p(to%20serve%20as%20his/her%20certifying%20agent)},%20A(organic%20certifier)%20D(must)%20I(inspect)%20Bdir,p(farmer%27s)%20Bdir(operation)%20Cex(within%2060%20days).)
+  * [Open in IG Parser (IG Extended)](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=Upon%20entrance%20into%20agreement%20with%20organic%20farmer%20to%20serve%20as%20his/her%20certifying%20agent,%20organic%20certifier%20must%20inspect%20farmer%27s%20operation%20within%2060%20days.&codedStmt=Cac{Upon%20entrance%20into%20I([enters])%20Bdir(agreement)%20with%20A(organic%20farmer)%20Bdir,p(to%20serve%20as%20his/her%20certifying%20agent)},%20A(organic%20certifier)%20D(must)%20I(inspect)%20Bdir,p(farmer%27s)%20Bdir(operation)%20Cex(within%2060%20days).)-->
