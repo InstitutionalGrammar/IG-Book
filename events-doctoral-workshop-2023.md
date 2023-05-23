@@ -69,7 +69,7 @@ Coding Solutions:
 
 * Program managers who believe that a certified operation has violated the Act may pursue revocation proceedings.
 
-  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/rawStmt=Program%20managers%20who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act%20may%20pursue%20revocation%20proceedings.&codedStmt=Program%20managers%20who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act%20may%20pursue%20revocation%20proceedings.)
+  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/rawStmt=Program%20managers%20who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act%20may%20pursue%20revocation%20proceedings.&codedStmt=A(Program%20managers)%20A,p(who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act)%20D(may)%20I(pursue)%20Bdir,p(revocation)%20Bdir(proceedings).)
   
 * A sailing vessel shall not impede the passage of a vessel that can safely navigate only within a narrow channel or fairway.
 
