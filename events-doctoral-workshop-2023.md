@@ -69,11 +69,11 @@ Coding Solutions:
 
 * Program managers who believe that a certified operation has violated the Act may pursue revocation proceedings.
 
-  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/rawStmt=Program%20managers%20who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act%20may%20pursue%20revocation%20proceedings.&codedStmt=A(Program%20managers)%20A,p(who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act)%20D(may)%20I(pursue)%20Bdir,p(revocation)%20Bdir(proceedings).)
+  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=Program%20managers%20who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act%20may%20pursue%20revocation%20proceedings.&codedStmt=A(Program%20managers)%20A,p(who%20believe%20that%20a%20certified%20operation%20has%20violated%20the%20Act)%20D(may)%20I(pursue)%20Bdir,p(revocation)%20Bdir(proceedings).)
   
 * A sailing vessel shall not impede the passage of a vessel that can safely navigate only within a narrow channel or fairway.
 
-  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A%20A,p(sailing)%20A(vessel)%20D(shall%20not)%20I(impede)%20the%20Bdir(passage)%20Bdir,p(of%20a%20vessel)%20Bdir,p,p(that%20can%20safely%20navigate%20only%20within%20a%20(narrow%20channel%20[OR]%20fairway)).)
+  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A%20A,p(sailing)%20A(vessel)%20D(shall%20not)%20I(impede)%20the%20Bdir(passage)%20Bdir,p(of%20a%20vessel)%20Bdir,p,p(that%20can%20safely%20navigate%20only%20within%20a%20(narrow%20channel%20[OR]%20fairway)).)
 
 
 [Constitutive Statements](https://drive.google.com/file/d/1jJuymZ332I-Z6sPDGKjaZyjDWxKSo5n4/view?usp=sharing)
