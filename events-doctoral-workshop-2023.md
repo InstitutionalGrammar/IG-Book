@@ -27,13 +27,13 @@ Specific resources relevant for the training (alongside the <a href="{{ site.pat
 ### Coding (Codebook & Tools)
 
 * IG 2.0 Codebook: https://arxiv.org/abs/2008.08937 (freely accessible)
- * contains principal coding guidance, overview of taxonomies (e.g., context, role, constitutive, etc.), IG customization options, Checklist for project-specific codebook
+  * contains principal coding guidance, overview of taxonomies (e.g., context, role, constitutive, etc.), IG customization options, Checklist for project-specific codebook
 
 * Coding Spreadsheet (Excel): https://institutionalgrammar.org/wp-content/uploads/2022/11/IG2.0_blank_coding_sheet_v_1.0.xlsx
- * Example spreadsheet for manual coding in Excel
+  * Example spreadsheet for manual coding in Excel
 
 * IG Parser: https://newinstitutionalgrammar.org/ig-parser
- * Supports the generic encoding of institutional statements in IG 2.0, with visual and tabular output formats
+  * Supports the generic encoding of institutional statements in IG 2.0, with visual and tabular output formats
 
 ### Example Statements
 
