@@ -13,7 +13,7 @@ UI Parameters relevant to see specific features exemplified in the statements ar
 
 <!--For an accessible introduction to IG Script (beyond the introduction in the manuscript), please refer to the [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937). -->
 
-## Examples
+## Examples in IG Script Section
 
 ```Cac(If officer observes or is made aware of violation), A(officer) D(must) I(fine and report) Bdir(violator) to Bind(authority).```
 
@@ -65,3 +65,11 @@ UI Parameters relevant to see specific features exemplified in the statements ar
 * Notes 
   * When generating tabular output, ensure to select two features, a) `Produce IG Extended output` in order to see the decomposed nested structure in the output, and b) `Include IG Logico annotations in output` to see additional columns capturing the annotations.
   * When generating visual output, ensure to select `Include IG Logico annotations in output` to see the annotations as part of the generated statement tree (as labels associated with the corresponding nodes).
+  
+## Illustrative Example
+
+```Cac{Cac[condition=violation]{If A[role=enforcer](officer) I[act=detection](observes [XOR] is made aware of) Bdir(violation)} [AND] Cac[condition=safety]{if A[role=enforcer](officer) I(deems) Bdir(intervention) Cex(safe)}}, A[role=enforcer](officer) D[stringency=high](must) I[act=sanction](fine [AND] report) Bind[role=violator](violator).```
+
+[Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=If%20an%20officer%20observes%20or%20is%20made%20aware%20of%20a%20violation%20and%20if%20the%20officer%20deems%20intervention,%20the%20officer%20must%20fine%20and%20report%20violator.&codedStmt=Cac{Cac[condition=violation]{If%20A[role=enforcer](officer)%20I[act=detection](observes%20[XOR]%20is%20made%20aware%20of)%20Bdir(violation)}%20[AND]%20Cac[condition=safety]{if%20A[role=enforcer](officer)%20I(deems)%20Bdir(intervention)%20Cex(safe)}},%20A[role=enforcer](officer)%20D[stringency=high](must)%20I[act=sanction](fine%20[AND]%20report)%20Bind[role=violator](violator).)
+
+* Note: Ensure to select `Include IG Logico annotations in output` to see the annotations as part of the generated statement tree (as labels associated with the corresponding nodes).
