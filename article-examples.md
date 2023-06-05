@@ -57,7 +57,7 @@ UI Parameters relevant to see specific features exemplified in the statements ar
 
 
 
-```Cac\{Cac[condition=violation]\{If A[role=enforcer](officer) I(observes [XOR] is made aware of) Bdir(violation)\} [AND] Cac[condition=safety]\{if A[role=enforcer](officer) I(deems) Bdir(intervention) Cex(safe)\}\}, \\A[role=enforcer](officer) D[stringency=high](must) \textbf{\{I[act=sanction](fine) Bdir(violator) [AND] I[act=report](file) Bdir(report) with\\ Bind[act=authority](district court)\}}```
+```Cac{Cac[condition=violation]{If A[role=enforcer](officer) I(observes [XOR] is made aware of) Bdir(violation)} [AND] Cac[condition=safety]{if A[role=enforcer](officer) I(deems) Bdir(intervention) Cex(safe)}}, A[role=enforcer](officer) D[stringency=high](must) {I[act=sanction](fine) Bdir(violator) [AND] I[act=report](file) Bdir(report) with Bind[act=authority](district court)}```
 
 
 [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=If%20an%20officer%20observes%20or%20is%20made%20aware%20of%20a%20violation%20and%20if%20the%20officer%20deems%20intervention,%20the%20officer%20must%20fine%20the%20violator%20and%20file%20report%20with%20district%20court.&codedStmt=Cac{Cac[condition=violation]{If%20A[role=enforcer](officer)%20I(observes%20[XOR]%20is%20made%20aware%20of)%20Bdir(violation)}%20[AND]%20Cac[condition=safety]{if%20A[role=enforcer](officer)%20I(deems)%20Bdir(intervention)%20Cex(safe)}},%20A[role=enforcer](officer)%20D[stringency=high](must)%20{I[act=sanction](fine)%20Bdir(violator)%20[AND]%20I[act=report](file)%20Bdir(report)%20with%20Bind[act=authority](district%20court)})
