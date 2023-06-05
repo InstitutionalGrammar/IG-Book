@@ -11,7 +11,7 @@ At this stage, this page is dedicated to reviewers who wish to explore the state
 
 UI Parameters relevant to see specific features exemplified in the statements are highlighted alongside the link for the corresponding example. 
 
-More details about the supported IG Script features is provided in the [IG Parser Readme](https://github.com/chrfrantz/IG-Parser/blob/main/README.md). To explore more complex examples beyond the ones displayed below, please consider testing the example statements available via the UI. 
+More details about the supported IG Script features is provided in the [IG Parser Readme](https://github.com/chrfrantz/IG-Parser/blob/main/README.md). To explore more complex examples beyond the ones displayed below, please consider testing the various example statements provided in the IG Parser UI. 
 
 <!--For an accessible introduction to IG Script (beyond the introduction in the manuscript), please refer to the [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937). -->
 
