@@ -8,9 +8,15 @@ title: IG Book
 
 This page lists a selection of events related to the Institutional Grammar 2.0, both including events we held in the past, as well as upcoming ones. Where relevant, further details are provided for the corresponding event.
 
+## June 2023: Introduction to the Institutional Grammar 2.0 (International Association of the Commons (IASC), University of Nairobi)
+
+We held an introductory workshop on the Institutional Grammar 2.0 as part of the IASC Conference in Nairobi.
+
+More information about this event can be found <a href="https://2023.iasc-commons.org/panel/workshop-4-introduction-to-the-institutional-grammar-2-0/">here</a>.
+
 ## May 2023: Graduate IG Training (Norwegian University of Science and Technology (NTNU), Gjøvik)
 
-We will hold the second edition of our on-site training on the Institutional Grammar at the Norwegian University of Science and Technology (NTNU), Gjøvik, in conjunction with the annual IGRI 'Institutional Analysis with the Institutional Grammar' training. The format primarily targets advanced graduate students who want to share and seek feedback on their application of the Institutional Grammar as part of their research.
+We held the second edition of our on-site training on the Institutional Grammar at the Norwegian University of Science and Technology (NTNU), Gjøvik, in conjunction with the annual IGRI 'Institutional Analysis with the Institutional Grammar' training. The format primarily targets advanced graduate students who want to share and seek feedback on their application of the Institutional Grammar as part of their research.
 
 More information about this event can be found <a href="{{ site.path }}/events-doctoral-workshop-2023.html">here</a>.
 
