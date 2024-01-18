@@ -8,6 +8,12 @@ title: IG Book
 
 This page lists a selection of events related to the Institutional Grammar 2.0, both including events we held in the past, as well as upcoming ones. Where relevant, further details are provided for the corresponding event.
 
+## January 2024: Virtual IG Training
+
+In January, we are holding our annual Virtual IG Training, aimed at introducing the practical use of the IG to scholars who have not previously engaged with it.
+
+More information about this event can be found <a href="{{ site.path }}/events-training-2024.html">here</a>.
+
 ## June 2023: Introduction to the Institutional Grammar 2.0 (International Association of the Commons (IASC), University of Nairobi)
 
 We held an introductory workshop on the Institutional Grammar 2.0 as part of the IASC Conference in Nairobi.
