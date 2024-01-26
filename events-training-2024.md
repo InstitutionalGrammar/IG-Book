@@ -31,7 +31,7 @@ Specific resources relevant for the training (alongside the <a href="{{ site.pat
 
 ### Example Statements
 
-During the course of the training, examples will be posted here.
+During the course of the training, we will post exemplary statements below.
 
 <!-- Please find statements used for the exercises below (further may be posted during the course of the training).
 
