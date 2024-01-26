@@ -31,9 +31,11 @@ Specific resources relevant for the training (alongside the <a href="{{ site.pat
 
 ### Example Statements
 
-Please find statements used for the exercises below (further may be posted during the course of the training).
+During the course of the training, examples will be posted here.
 
-[Regulative Statements](https://drive.google.com/file/d/1iyTim00l2gTw4eaFxpJ2LRWaOgKdv_vw/view?usp=sharing)
+<!-- Please find statements used for the exercises below (further may be posted during the course of the training).
+
+[Regulative Statements](https://drive.google.com/file/d/1iyTim00l2gTw4eaFxpJ2LRWaOgKdv_vw/view?usp=sharing) -->
 
 <!--Coding Solutions: -->
 
