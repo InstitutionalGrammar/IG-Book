@@ -8,32 +8,36 @@ title: IG Book
 
 On this page, you will find resources used as part of the Virtual Sessions of the IG Training 2024 (29th-31st January, 2024).
 
-Those include references to conceptual foundations relevant to understand the use of the Institutional Grammar, as well as links to tools and exercises used as part of the training.
+Those include references to conceptual foundations relevant to understand the use of the Institutional Grammar (specifically Version 2.0), as well as links to tools and exercises used as part of the training.
 
 ## Resources
 
-Specific resources relevant for the training (alongside the <a href="{{ site.path }}/resources.html">general resources</a>) are posted below:
+Specific resources relevant for the training (alongside the broader set of <a href="{{ site.path }}/resources.html">general resources</a>) are posted below:
 
 ### Concepts
 
 * [IG Book](https://link.springer.com/book/10.1007/978-3-030-86372-2) (may be freely available depending on your university library subscription)
+  * This is the book describing the complete conceptual foundations of the Institutional Grammar 2.0, alongside methodological guidance and discussion of analytical opportunities. Note that complementary detailed operational guidance is provided in the codebook below.
 
 ### Coding (Codebook & Tools)
 
 * [IG 2.0 Codebook](https://arxiv.org/abs/2008.08937) (freely accessible)
-  * contains principal coding guidance, overview of taxonomies (e.g., context, role, constitutive, etc.), IG customization options, Checklist for project-specific codebook
+  * General IG 2.0 codebook containing a brief overview of conceptual foundations, but primarily focusing on providing coding guidance on different levels of expressiveness, as well as containing an overview of IG Logico taxonomies (e.g., context, role, constitutive, etc.), IG customization options, as well as a *Checklist* relevant when developing project-specific codebooks
 
 * [Coding Spreadsheet (Excel)](https://institutionalgrammar.org/wp-content/uploads/2022/11/IG2.0_blank_coding_sheet_v_1.0.xlsx)
   * Example spreadsheet for manual coding in Excel
+  
+* [Inception Layers](https://github.com/InstitutionalGrammar/IG-Inception-Layers)
+  * IG 2.0-specific layers that can be imported into the Inception Text Annotation Tool to support the encoding.
 
 * [IG Parser](https://newinstitutionalgrammar.org/ig-parser)
-  * Supports the generic encoding of institutional statements in IG 2.0, with visual and tabular output formats
+  * Purpose-built open-source software supporting the generic encoding of institutional statements in IG 2.0, with visual and tabular output formats
 
 ### Example Statements
 
 <!--During the course of the training, we will post exemplary statements below.-->
 
-Below please find estatements used in the exercises (further may be posted during the course of the training).
+Below please find estatements used in the exercises (further will be posted during the course of the training).
 
 [Exercise 1](https://drive.google.com/file/d/1Yg37p_AvnOFr70FaHVcaU0yPKw6inTC4/view?usp=sharing)
 
