@@ -31,11 +31,11 @@ Specific resources relevant for the training (alongside the <a href="{{ site.pat
 
 ### Example Statements
 
-During the course of the training, we will post exemplary statements below.
+<!--During the course of the training, we will post exemplary statements below.-->
 
-<!-- Please find statements used for the exercises below (further may be posted during the course of the training).
+Below please find estatements used in the exercises (further may be posted during the course of the training).
 
-[Regulative Statements](https://drive.google.com/file/d/1iyTim00l2gTw4eaFxpJ2LRWaOgKdv_vw/view?usp=sharing) -->
+[Exercise 1](https://drive.google.com/file/d/1Yg37p_AvnOFr70FaHVcaU0yPKw6inTC4/view?usp=sharing)
 
 <!--Coding Solutions: -->
 
@@ -70,7 +70,7 @@ During the course of the training, we will post exemplary statements below.
   
 * A sailing vessel shall not impede the passage of a vessel that can safely navigate only within a narrow channel or fairway.
 
-  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A%20A,p(sailing)%20A(vessel)%20D(shall%20not)%20I(impede)%20the%20Bdir(passage)%20Bdir,p(of%20a%20vessel)%20Bdir,p,p(that%20can%20safely%20navigate%20only%20within%20a%20(narrow%20channel%20[OR]%20fairway)).)
+  * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A%20A,p(sailing)%20A(vessel)%20D(shall%20not)%20I(impede)%20the%20Bdir(passage)%20Bdir,p(of%20a%20vessel)%20Bdir,p,p(that%20can%20safely%20navigate%20only%20within%20a%20(narrow%20channel%20[OR]%20fairway)).)-->
 
 
-[Constitutive Statements](https://drive.google.com/file/d/1jJuymZ332I-Z6sPDGKjaZyjDWxKSo5n4/view?usp=sharing)-->
+<!-- [Exercise 2](https://drive.google.com/file/d/1YhqahPzNzmxw5frj8U2WT1t9FTCyxZO-/view?usp=sharing)-->
