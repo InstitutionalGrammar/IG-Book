@@ -43,11 +43,13 @@ Below please find estatements used in the exercises (further will be posted duri
 
 <details>
   <summary>Bonus statement</summary><br/>
-  
+
+Task: Attempt to code the following statements on IG Extended level.
+
+The commission shall modify or delay the implementation of a standard obligation, if the commission determines it is in the public interest to do so.
+
 When implementing the target referred to in the first subparagraph, the relevant Union institutions and the Member States shall prioritise swift and predictable emission reductions and, at the same time, enhance removals by natural sinks.
 
-Task: Attempt to code this statement on IG Extended level.
-  
 </details>
 
 <!--Coding Solutions: -->
