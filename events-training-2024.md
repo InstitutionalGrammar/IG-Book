@@ -42,7 +42,7 @@ Below please find estatements used in the exercises (further will be posted duri
 [Exercise 1](https://drive.google.com/file/d/1Yg37p_AvnOFr70FaHVcaU0yPKw6inTC4/view?usp=sharing)
 
 <details>
-  <summary>Bonus statement</summary><br/>
+  <summary>Bonus statements</summary><br/>
 
 Task: Attempt to code the following statements on IG Extended level.
 
