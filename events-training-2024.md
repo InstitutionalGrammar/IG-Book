@@ -88,4 +88,4 @@ When implementing the target referred to in the first subparagraph, the relevant
   * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A%20A,p(sailing)%20A(vessel)%20D(shall%20not)%20I(impede)%20the%20Bdir(passage)%20Bdir,p(of%20a%20vessel)%20Bdir,p,p(that%20can%20safely%20navigate%20only%20within%20a%20(narrow%20channel%20[OR]%20fairway)).)-->
 
 
-<!-- [Exercise 2](https://drive.google.com/file/d/1YhqahPzNzmxw5frj8U2WT1t9FTCyxZO-/view?usp=sharing)-->
+[Exercise 2](https://drive.google.com/file/d/1ZHjOkMmJ0S33-lWjGFvE4h0YLqea5Gvp/view?usp=sharing)
