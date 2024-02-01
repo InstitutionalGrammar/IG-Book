@@ -39,7 +39,7 @@ Specific resources relevant for the training (alongside the broader set of <a hr
 
 Below please find estatements used in the exercises (further will be posted during the course of the training).
 
-[Exercise 1](https://drive.google.com/file/d/1Yg37p_AvnOFr70FaHVcaU0yPKw6inTC4/view?usp=sharing)
+[Exercise 1 (Day 2)](https://drive.google.com/file/d/1Yg37p_AvnOFr70FaHVcaU0yPKw6inTC4/view?usp=sharing)
 
 <details>
   <summary>Bonus statements</summary><br/>
@@ -51,7 +51,6 @@ The commission shall modify or delay the implementation of a standard obligation
 When implementing the target referred to in the first subparagraph, the relevant Union institutions and the Member States shall prioritise swift and predictable emission reductions and, at the same time, enhance removals by natural sinks.
 
 </details>
-</br>
 </br>
 
 <!--Coding Solutions: -->
@@ -90,4 +89,4 @@ When implementing the target referred to in the first subparagraph, the relevant
   * [Open in IG Parser](https://ig-parser.newinstitutionalgrammar.org/visual/?rawStmt=A%20sailing%20vessel%20shall%20not%20impede%20the%20passage%20of%20a%20vessel%20that%20can%20safely%20navigate%20only%20within%20a%20narrow%20channel%20or%20fairway.&codedStmt=A%20A,p(sailing)%20A(vessel)%20D(shall%20not)%20I(impede)%20the%20Bdir(passage)%20Bdir,p(of%20a%20vessel)%20Bdir,p,p(that%20can%20safely%20navigate%20only%20within%20a%20(narrow%20channel%20[OR]%20fairway)).)-->
 
 
-[Exercise 2](https://drive.google.com/file/d/1ZHjOkMmJ0S33-lWjGFvE4h0YLqea5Gvp/view?usp=sharing)
+[Exercise 2 (Day 3)](https://drive.google.com/file/d/1ZHjOkMmJ0S33-lWjGFvE4h0YLqea5Gvp/view?usp=sharing)
